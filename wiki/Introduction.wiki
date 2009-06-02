@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+Test of the first wiki
+
+Add your content here.
+bla bla bla .  look in a a few weeks to see how the gps works
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
