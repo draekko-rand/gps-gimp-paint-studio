@@ -1,0 +1,12 @@
+# GIMP gimp-clone-tool options
+
+(opacity 0.983333)
+(brush "B_Round Brush 20")
+(pattern "test pattern.jpg")
+(brush-scale 1.258925)
+(dynamics-expanded yes)
+(pressure-size yes)
+(velocity-hardness yes)
+(sample-merged yes)
+
+# end of gimp-clone-tool options

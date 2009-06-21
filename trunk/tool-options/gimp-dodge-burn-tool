@@ -1,0 +1,13 @@
+# GIMP gimp-dodge-burn-tool options
+
+(foreground (color-rgb 0.756863 0.498039 0.203922))
+(opacity 0.800000)
+(paint-mode screen-mode)
+(brush "A_Airbrush 100")
+(pressure-opacity no)
+(jitter-amount 0.392157)
+(type burn)
+(mode highlights)
+(exposure 68.750000)
+
+# end of gimp-dodge-burn-tool options

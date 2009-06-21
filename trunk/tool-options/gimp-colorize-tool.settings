@@ -1,0 +1,14 @@
+# settings
+
+(GimpColorizeConfig "2008-11-19 #1"
+    (time 1227092993)
+    (hue 0.070175)
+    (saturation 0.574561)
+    (lightness -0.114035))
+(GimpColorizeConfig "2008-11-19 "
+    (time 1227092230)
+    (hue 0.078947)
+    (saturation 0.701754)
+    (lightness -0.043860))
+
+# end of settings

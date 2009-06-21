@@ -1,0 +1,15 @@
+# gimp-rect-select-tool options
+
+(GimpRectangleSelectOptions "Sharp Selection"
+    (tool "gimp-paintbrush-tool")
+    (paint-info "gimp-paintbrush")
+    (opacity 0.253012)
+    (brush "Real Pencil 07x07")
+    (pattern "Warning!")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (feather-radius 41.818182)
+    (corner-radius 14.545455))
+
+# end of gimp-rect-select-tool options

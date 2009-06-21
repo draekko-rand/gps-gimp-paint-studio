@@ -1,0 +1,44 @@
+# gimp-eraser-tool options
+
+(GimpEraserOptions "Soft Eraser"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.023529 0.047059 0.039216))
+    (background (color-rgb 0.996078 0.996078 0.996078))
+    (opacity 0.900000)
+    (paint-mode screen-mode)
+    (brush "B_Round Brush 80")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial"))
+(GimpEraserOptions "Hard Eraser"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.023529 0.047059 0.039216))
+    (background (color-rgb 0.996078 0.996078 0.996078))
+    (paint-mode screen-mode)
+    (brush "F_Fast Block Brush 80")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (dynamics-expanded yes)
+    (pressure-opacity no)
+    (pressure-size yes))
+(GimpEraserOptions "Round Eraser"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.023529 0.047059 0.039216))
+    (paint-mode screen-mode)
+    (brush "B_Round Brush 40")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (brush-scale 0.630957))
+(GimpEraserOptions "Block Eraser"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.078652 0.152992 0.072731))
+    (paint-mode screen-mode)
+    (brush "A_Angular_church")
+    (pattern "test pattern.jpg")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold"))
+
+# end of gimp-eraser-tool options

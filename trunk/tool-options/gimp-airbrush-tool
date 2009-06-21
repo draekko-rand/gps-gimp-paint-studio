@@ -1,0 +1,9 @@
+# GIMP gimp-airbrush-tool options
+
+(opacity 0.900000)
+(brush "B_Round Brush 20")
+(gradient "FG to BG (RGB)")
+(rate 135.492891)
+(pressure 41.232227)
+
+# end of gimp-airbrush-tool options

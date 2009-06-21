@@ -1,0 +1,48 @@
+# gimp-ink-tool options
+
+(GimpInkOptions "Doodles"
+    (tool "gimp-ink-tool")
+    (brush "Clipboard")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (size 77.273315)
+    (vel-sensitivity 0.517241)
+    (tilt-sensitivity 0.894737)
+    (blob-type square)
+    (blob-aspect 2.827883)
+    (blob-angle -0.982794))
+(GimpInkOptions "Fine Sketch"
+    (tool "gimp-paintbrush-tool")
+    (brush "Clipboard")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (size 18.331544)
+    (tilt-angle 26.580311)
+    (vel-sensitivity 1.000000)
+    (tilt-sensitivity 1.000000)
+    (blob-angle -1.107149))
+(GimpInkOptions "Medium Sketch"
+    (tool "gimp-ink-tool")
+    (brush "Clipboard")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (size 40.000000)
+    (vel-sensitivity 0.913793)
+    (tilt-sensitivity 0.268421))
+(GimpInkOptions "Ink"
+    (tool "gimp-paintbrush-tool")
+    (pattern "Warning!")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (size 63.882326)
+    (vel-sensitivity 0.982759)
+    (tilt-sensitivity 1.000000)
+    (blob-type diamond)
+    (blob-aspect 6.491351)
+    (blob-angle -0.436627))
+
+# end of gimp-ink-tool options

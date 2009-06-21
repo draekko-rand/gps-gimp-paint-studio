@@ -1,0 +1,16 @@
+# gimp-convolve-tool options
+
+(GimpConvolveOptions "Antialiasing 1"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.925490 0.658824 0.752941))
+    (paint-mode screen-mode)
+    (brush "Z_Pixel 4x4 rounded")
+    (pattern "Pine")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (brush-scale 0.749894)
+    (jitter-amount 2.302632)
+    (rate 96.153846))
+
+# end of gimp-convolve-tool options

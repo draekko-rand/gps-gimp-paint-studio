@@ -1,0 +1,37 @@
+# gimp-pencil-tool options
+
+(GimpPencilOptions "1 Pixel"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.493004 0.493004 0.493004))
+    (brush "Z_Pixel 1")
+    (pattern "Pine")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (dynamics-expanded yes)
+    (pressure-opacity no)
+    (jitter-amount 3.563218))
+(GimpPencilOptions "4x4 pix rounded"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.493004 0.493004 0.493004))
+    (brush "Z_Pixel 4x4 rounded")
+    (pattern "Pine")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (dynamics-expanded yes)
+    (pressure-opacity no)
+    (jitter-amount 3.563218))
+(GimpPencilOptions "Spray 1"
+    (tool "gimp-paintbrush-tool")
+    (brush "Z_Pixel 4x4 rounded")
+    (pattern "Pine")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (dynamics-expanded yes)
+    (pressure-opacity no)
+    (use-jitter yes)
+    (jitter-amount 5.000000))
+
+# end of gimp-pencil-tool options
