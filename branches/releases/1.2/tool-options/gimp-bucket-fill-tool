@@ -1,0 +1,9 @@
+# GIMP gimp-bucket-fill-tool options
+
+(foreground (color-rgb 0.768049 0.365867 0.812736))
+(opacity 0.800000)
+(pattern "Warning!")
+(fill-selection yes)
+(sample-merged yes)
+
+# end of gimp-bucket-fill-tool options

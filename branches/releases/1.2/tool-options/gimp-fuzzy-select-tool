@@ -1,0 +1,5 @@
+# GIMP gimp-fuzzy-select-tool options
+
+(select-transparent no)
+
+# end of gimp-fuzzy-select-tool options

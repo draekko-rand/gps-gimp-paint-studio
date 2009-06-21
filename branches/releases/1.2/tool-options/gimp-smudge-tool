@@ -1,0 +1,11 @@
+# GIMP gimp-smudge-tool options
+
+(foreground (color-rgb 0.215686 0.156863 0.372549))
+(background (color-rgb 0.290196 0.309804 0.325490))
+(opacity 0.504950)
+(brush "A_Airbrush 100")
+(pressure-rate yes)
+(jitter-amount 0.339806)
+(rate 57.480315)
+
+# end of gimp-smudge-tool options

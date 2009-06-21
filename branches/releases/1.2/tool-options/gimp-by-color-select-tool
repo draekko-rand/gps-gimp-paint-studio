@@ -1,0 +1,8 @@
+# GIMP gimp-by-color-select-tool options
+
+(antialias no)
+(select-transparent no)
+(sample-merged yes)
+(threshold 142.071429)
+
+# end of gimp-by-color-select-tool options

@@ -1,0 +1,23 @@
+# gimp-bucket-fill-tool options
+
+(GimpBucketFillOptions "Normal Fill 100%"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.509804 0.509804 0.509804))
+    (background (color-rgb 0.360784 0.223529 0.215686))
+    (brush "Clipboard")
+    (pattern "Warning!")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (fill-selection yes)
+    (sample-merged yes))
+(GimpBucketFillOptions "Pixelling Fill"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 1.000000 0.983776 0.814627))
+    (brush "Graphite Pencil")
+    (pattern "DITH 0202 CLUS")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (threshold 0.000000))
+
+# end of gimp-bucket-fill-tool options

@@ -1,0 +1,12 @@
+# GIMP gimp-pencil-tool options
+
+(foreground (color-rgb 0.768049 0.365867 0.812736))
+(opacity 0.453333)
+(brush "B_Round Brush 20")
+(gradient "Flare Glow Radial 3")
+(brush-scale 2.818383)
+(dynamics-expanded yes)
+(pressure-size yes)
+(jitter-amount 3.563218)
+
+# end of gimp-pencil-tool options

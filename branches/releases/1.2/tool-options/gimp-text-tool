@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.768049 0.365867 0.812736))
+(palette "Human_Hair")
+(font "Myriad Pro Bold")
+(font-size 125.000000)
+(justify center)
+
+# end of gimp-text-tool options
