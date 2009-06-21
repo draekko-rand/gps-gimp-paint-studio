@@ -1,0 +1,150 @@
+# GIMP sessionrc
+# 
+# This file takes session-specific info (that is info, you want to keep
+# between two GIMP sessions).  You are not supposed to edit it manually, but
+# of course you can do.  The sessionrc will be entirely rewritten every time
+# you quit GIMP.  If this file isn't found, defaults are used.
+
+(session-info "toolbox" "dock"
+    (position 2 3)
+    (size 260 747)
+    (open-on-exit)
+    (dock
+        (book
+            (current-page 0)
+            (dockable "gimp-tool-options"
+                (tab-style icon)))
+        (book
+            (position 258)
+            (current-page 0)
+            (dockable "gimp-color-editor"
+                (tab-style preview)
+                (aux-info
+                    (current-page "ColorselWheel")))
+            (dockable "gimp-color-editor"
+                (locked)
+                (tab-style icon)
+                (aux-info
+                    (current-page "GimpColorSelectorPalette")))
+            (dockable "gimp-palette-list"
+                (tab-style preview))
+            (dockable "gimp-palette-editor"
+                (tab-style icon)
+                (aux-info
+                    (edit-active "true")
+                    (current-data "mismuestras.aco")
+                    (zoom-factor "1.10"))))))
+(session-info "display" "gimp-empty-image-window"
+    (position 272 3)
+    (size 551 741))
+(session-info "dock" "dock"
+    (position 832 4)
+    (size 200 781)
+    (open-on-exit)
+    (aux-info
+        (show-image-menu "true")
+        (follow-active-image "true"))
+    (dock
+        (book
+            (current-page 0)
+            (dockable "gimp-navigation-view"
+                (tab-style icon)))
+        (book
+            (position 167)
+            (current-page 0)
+            (dockable "gimp-layer-list"
+                (tab-style icon)
+                (preview-size 32))
+            (dockable "gimp-channel-list"
+                (tab-style icon)
+                (preview-size 32))
+            (dockable "gimp-vectors-list"
+                (tab-style icon)
+                (preview-size 32))
+            (dockable "gimp-undo-history"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "false"))))
+        (book
+            (position 442)
+            (current-page 0)
+            (dockable "gimp-brush-grid"
+                (tab-style preview))
+            (dockable "gimp-brush-editor"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "false")
+                    (edit-active "true")
+                    (current-data "P_Real Pencil 10x10")))
+            (dockable "gimp-gradient-list"
+                (tab-style preview))
+            (dockable "gimp-pattern-grid"
+                (tab-style preview)))))
+(session-info "toplevel" "gimp-file-open-location-dialog"
+    (position 72 72))
+(session-info "toplevel" "gimp-palette-import-dialog"
+    (position 267 324)
+    (size 644 411))
+(session-info "toplevel" "gimp-preferences-dialog"
+    (position 245 167))
+(session-info "toplevel" "gimp-file-open-dialog"
+    (position 241 59)
+    (size 900 552))
+(session-info "toplevel" "gimp-image-new-dialog"
+    (position 206 102))
+(session-info "toplevel" "gimp-text-tool-dialog"
+    (position 707 545)
+    (size 304 299))
+(session-info "toplevel" "gimp-file-save-dialog"
+    (position 229 221)
+    (size 900 666))
+(session-info "toplevel" "gimp-scale-tool-dialog"
+    (position 211 35))
+(session-info "toplevel" "gimp-rotate-tool-dialog"
+    (position 1062 832))
+(session-info "toplevel" "gimp-file-save-dialog"
+    (position 224 178)
+    (size 960 626))
+(session-info "toplevel" "gimp-perspective-tool-dialog"
+    (position 285 369))
+(session-info "toplevel" "gimp-keyboard-shortcuts-dialog"
+    (position 183 42)
+    (size 703 690))
+(session-info "toplevel" "gimp-color-picker-tool-dialog"
+    (position 770 795)
+    (size 262 203))
+(session-info "toplevel" "gimp-brightness-contrast-tool-dialog"
+    (position 784 601))
+(session-info "toplevel" "gimp-levels-tool-dialog"
+    (position 64 114)
+    (size 370 489))
+(session-info "toplevel" "gimp-color-balance-tool-dialog"
+    (position 115 250))
+(session-info "toplevel" "gimp-curves-tool-dialog"
+    (position 26 324)
+    (size 382 510))
+(session-info "toplevel" "gimp-toolbox-color-dialog"
+    (position 332 326))
+(session-info "toplevel" "gimp-hue-saturation-tool-dialog"
+    (position 599 350))
+(session-info "toplevel" "gimp-module-dialog"
+    (position 470 182)
+    (size 613 724))
+(session-info "toplevel" "gimp-colorize-tool-dialog"
+    (position 558 496))
+(session-info "toplevel" "gimp-threshold-tool-dialog"
+    (position 636 520))
+(session-info "toplevel" "gimp-posterize-tool-dialog"
+    (position 120 120))
+(session-info "toplevel" "gimp-desaturate-tool-dialog"
+    (position 88 116))
+(session-info "toplevel" "gimp-gegl-tool-dialog"
+    (position 166 224))
+(session-info "toplevel" "gimp-shear-tool-dialog"
+    (position 154 203))
+(session-info "toplevel" "gimp-palette-editor-color-dialog"
+    (position 0 0))
+
+(last-tip-shown 60)
+
+# end of sessionrc

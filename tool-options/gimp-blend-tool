@@ -1,0 +1,8 @@
+# GIMP gimp-blend-tool options
+
+(foreground (color-rgb 0.768049 0.365867 0.812736))
+(opacity 0.933333)
+(gradient "FG to BG (HSV counter-clockwise)")
+(gradient-reverse yes)
+
+# end of gimp-blend-tool options

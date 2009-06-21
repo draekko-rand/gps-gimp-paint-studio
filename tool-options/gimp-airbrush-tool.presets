@@ -1,0 +1,48 @@
+# gimp-airbrush-tool options
+
+(GimpAirbrushOptions "Real AirBrush"
+    (tool "gimp-paintbrush-tool")
+    (brush "A_Airbrush 200")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (pressure-hardness yes)
+    (pressure-inverse-size yes)
+    (rate 135.492891)
+    (pressure 41.232227))
+(GimpAirbrushOptions "Digital AirBrush"
+    (tool "gimp-paintbrush-tool")
+    (background (color-rgb 0.776701 0.517395 0.344525))
+    (opacity 0.900000)
+    (brush "A_Airbrush 200")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (rate 135.492891)
+    (pressure 41.232227))
+(GimpAirbrushOptions "Block AirBrush"
+    (tool "gimp-paintbrush-tool")
+    (background (color-rgb 0.290196 0.309804 0.325490))
+    (brush "A_Angular_church")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (brush-scale 0.757736)
+    (dynamics-expanded yes)
+    (pressure-hardness yes)
+    (rate 54.838710)
+    (pressure 45.161290)
+    (velocity-hardness no))
+(GimpAirbrushOptions "Glow AirBrush(FX)"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.244327 0.155003 0.095453))
+    (background (color-rgb 0.000000 0.000000 0.000000))
+    (paint-mode addition-mode)
+    (brush "A_Airbrush 200")
+    (pattern "Pine")
+    (palette "mismuestras.aco")
+    (font "Arial")
+    (rate 135.492891)
+    (pressure 90.995261))
+
+# end of gimp-airbrush-tool options

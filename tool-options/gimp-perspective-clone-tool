@@ -1,0 +1,9 @@
+# GIMP gimp-perspective-clone-tool options
+
+(foreground (color-rgb 0.768049 0.365867 0.812736))
+(background (color-rgb 0.776701 0.517395 0.344525))
+(opacity 0.800000)
+(brush "B_Round Brush 20")
+(pattern "Pine")
+
+# end of gimp-perspective-clone-tool options

@@ -1,0 +1,19 @@
+# gimp-dodge-burn-tool options
+
+(GimpDodgeBurnOptions "nnormal"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.756863 0.498039 0.203922))
+    (opacity 0.800000)
+    (paint-mode screen-mode)
+    (brush "A_Airbrush 100")
+    (pattern "Pine")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (pressure-opacity no)
+    (jitter-amount 0.392157)
+    (type burn)
+    (mode highlights)
+    (exposure 68.750000))
+
+# end of gimp-dodge-burn-tool options

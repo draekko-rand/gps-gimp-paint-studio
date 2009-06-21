@@ -1,0 +1,8 @@
+# GIMP gimp-eraser-tool options
+
+(opacity 0.900000)
+(paint-mode screen-mode)
+(brush "B_Round Brush 20")
+(brush-scale 0.932603)
+
+# end of gimp-eraser-tool options

@@ -1,0 +1,9 @@
+# GIMP gimp-vector-tool options
+
+(foreground (color-rgb 0.768049 0.365867 0.812736))
+(opacity 0.800000)
+(paint-mode screen-mode)
+(brush "B_Round Brush 20")
+(gradient "Flare Glow Radial 3")
+
+# end of gimp-vector-tool options

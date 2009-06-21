@@ -1,0 +1,19 @@
+# gimp-clone-tool options
+
+(GimpCloneOptions "Fondos pattern"
+    (tool "gimp-paintbrush-tool")
+    (opacity 0.983333)
+    (paint-mode overlay-mode)
+    (brush "A_Airbrush 200")
+    (pattern "Fractal Pattern")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (brush-scale 0.891251)
+    (dynamics-expanded yes)
+    (pressure-size yes)
+    (velocity-hardness yes)
+    (sample-merged yes)
+    (clone-type pattern-clone))
+
+# end of gimp-clone-tool options

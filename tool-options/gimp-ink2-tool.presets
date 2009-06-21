@@ -1,0 +1,31 @@
+# gimp-ink2-tool options
+
+(GimpInk2Options "Ink_precise1"
+    (tool "gimp-paintbrush-tool")
+    (pattern "Simple Noise 1")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (paint-max-coord-smooth 0.000000)
+    (size-sensitivity 0.422414)
+    (vel-sensitivity 0.603448)
+    (tilt-sensitivity 0.750000)
+    (blob-type square)
+    (blob-aspect 4.705882)
+    (blob-angle -1.570796)
+    (compensate-at-last yes)
+    (compensation-rate-temperature 242.366716))
+(GimpInk2Options "ink 2"
+    (tool "gimp-paintbrush-tool")
+    (background (color-rgb 0.214888 0.214888 0.214888))
+    (pattern "test pattern.jpg")
+    (gradient "Flare Glow Radial 3")
+    (palette "mismuestras.aco")
+    (font "Myriad Pro Bold")
+    (paint-max-coord-smooth 0.000000)
+    (vel-sensitivity 1.000000)
+    (tilt-sensitivity 0.000000)
+    (blob-angle -1.570796)
+    (compensation-rate-temperature 1000.000000))
+
+# end of gimp-ink2-tool options

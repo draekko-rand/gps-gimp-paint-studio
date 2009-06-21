@@ -1,0 +1,10 @@
+# GIMP gimp-paintbrush-tool options
+
+(brush "B_Round Brush 20")
+(gradient "Flare Glow Radial 3")
+(dynamics-expanded yes)
+(fade-length 138.000000)
+(fade-unit percent)
+(jitter-amount 0.119048)
+
+# end of gimp-paintbrush-tool options

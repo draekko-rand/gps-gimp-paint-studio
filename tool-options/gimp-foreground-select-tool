@@ -1,0 +1,8 @@
+# GIMP gimp-foreground-select-tool options
+
+(foreground (color-rgb 0.768049 0.365867 0.812736))
+(contiguous no)
+(mask-color red-channel)
+(expanded yes)
+
+# end of gimp-foreground-select-tool options
