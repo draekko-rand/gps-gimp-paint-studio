@@ -1,0 +1,3 @@
+The Wiki is here to allow for collaborative discussions. 
+
+#sidebar TableOfContents
