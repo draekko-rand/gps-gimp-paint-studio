@@ -4,23 +4,22 @@
 
 =Personal homepages and galleries= 
 
-[http://ramonmirandavisualart.blogspot.com/ VisualArt]
-[http://www.davidrevoy.com/index.php?lang=en David Revoy]
-[http://blogdodesenhador.blogspot.com/ Mozart Couto]
-[http://griatch-art.deviantart.com/ Griatch]
-[http://www.alexkellyart.co.uk/ Alex Kelly]
-[http://przemyslawie.cgsociety.org/gallery/ Geremek]
+ * [http://ramonmirandavisualart.blogspot.com/ VisualArt]
+ *[http://www.davidrevoy.com/index.php?lang=en David Revoy]
+ * [http://blogdodesenhador.blogspot.com/ Mozart Couto]
+ * [http://griatch-art.deviantart.com/ Griatch]
+ * [http://www.alexkellyart.co.uk/ Alex Kelly]
+ * [http://przemyslawie.cgsociety.org/gallery/ Geremek]
 
 =GIMP links=
 
-[http://www.gimp.org GIMP]
-[http://gimp-brainstorm.blogspot.com/ GIMP UI Brainstorm]
-[http://river-valley.tv/gimp-ui-taking-some-big-issues-by-the-horns/ GIMP UI future discussion (video)]
+ * [http://www.gimp.org GIMP]
+ * [http://gimp-brainstorm.blogspot.com/ GIMP UI Brainstorm]
+ * [http://river-valley.tv/gimp-ui-taking-some-big-issues-by-the-horns/ GIMP UI future discussion (video)]
 
 =Other program links=
-[http://mypaint.intilinux.com/ MyPaint]
-[http://wiki.mypaint.info/index.php?title=UI/Brainstorm MyPaint GUI brainstorm]
-
+ * [http://mypaint.intilinux.com/ MyPaint]
+ * [http://wiki.mypaint.info/index.php?title=UI/Brainstorm MyPaint GUI brainstorm]
 
 =Other links=
-[http://www.libregraphicsmeeting.org/2009/ Libre Graphics meeting 2009] 
+ *[http://www.libregraphicsmeeting.org/2009/ Libre Graphics meeting 2009] 
