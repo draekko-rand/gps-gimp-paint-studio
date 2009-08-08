@@ -1,7 +1,7 @@
 #summary A few brief words about GPS
 #sidebar TableOfContents
 
-<wiki:toc max_depth="1"
+<wiki:toc max_depth="1"/>
 
 = Introduction, the Gimp digital painting initiative =
 
