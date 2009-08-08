@@ -1,3 +1,4 @@
 #summary Links to relevant places
+#sidebar TableOfContents
 
 Links here.
