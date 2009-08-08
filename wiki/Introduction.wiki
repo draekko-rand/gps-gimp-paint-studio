@@ -1,6 +1,5 @@
+#summary A few brief words about the GPS initiative.
 #labels Featured
-
-#summary A few brief words about the GPS initiative
 #sidebar TableOfContents
 
 = Introduction = 
