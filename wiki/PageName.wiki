@@ -1,4 +1,0 @@
-#summary Table of Contents
-
-* [Introduction]
-* [BrainStorm]
