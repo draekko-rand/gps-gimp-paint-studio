@@ -1,4 +1,4 @@
-#summary A few brief words about GPS
+#summary A few brief words about the GPS initiative
 #sidebar TableOfContents
 
 = Introduction, the Gimp digital painting initiative =
