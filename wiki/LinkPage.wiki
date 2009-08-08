@@ -1,5 +1,4 @@
 #summary Links to relevant places
-#labels Featured
 #sidebar TableOfContents
 
 =Personal homepages and galleries= 
