@@ -1,5 +1,6 @@
-#summary A few brief words about the GPS initiative
 #labels Featured
+<wiki:toc max_depth="1" />
+#summary A few brief words about the GPS initiative
 #sidebar TableOfContents
 
 = Introduction = 
