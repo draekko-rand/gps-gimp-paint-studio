@@ -1,3 +1,4 @@
 #summary The Gimp for digital painters brainstorm
+#sidebar TableOfContents
 
 No ideas here as of yet ...
