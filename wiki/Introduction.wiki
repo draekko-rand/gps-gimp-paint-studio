@@ -3,7 +3,8 @@
 
 = Introduction = 
 
-_Gimp Paint Studio_ is, as described on the front page "a collection of brushes and accompanying tool presets" for the free open-source program [http://www.gimp.org Gimp]. But is also an attempt at something more. It is also an independent initiative to push for the increased awareness that Gimp is _not_ only useful for cropping photos, adjusting colour balances and make minor website graphics. 
+_Gimp Paint Studio_ is, as described on the front page "a collection of brushes and accompanying tool presets" for the free open-source program [http://www.gimp.org Gimp]. 
+But it is also an attempt at something more. It is also an independent initiative to push for the increased awareness that Gimp is _not_ only useful for cropping photos, adjusting colour balances and make minor website graphics. 
 
 Gimp is also an excellent tool for digital painters, creating completely new works of art from scratch, a capacity that is not always fully realized by the default setup, nor in what new developments is being considered for future versions of GIMP. 
 
