@@ -22,4 +22,4 @@
  * [http://wiki.mypaint.info/index.php?title=UI/Brainstorm MyPaint GUI brainstorm]
 
 =Other links=
- *[http://www.libregraphicsmeeting.org/2009/ Libre Graphics meeting 2009] 
+ * [http://www.libregraphicsmeeting.org/2009/ Libre Graphics meeting 2009] 
