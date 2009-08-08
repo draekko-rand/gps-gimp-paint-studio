@@ -1,5 +1,4 @@
 #summary The Gimp for digital painters brainstorm
-#labels Featured
 #sidebar TableOfContents
 
 No ideas here as of yet ...
