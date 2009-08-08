@@ -1,6 +1,5 @@
 #summary Links to relevant places
 #sidebar TableOfContents
-<wiki:toc max_depth="1" />
 
 =Personal homepages and galleries= 
 
