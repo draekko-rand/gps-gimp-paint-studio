@@ -2,5 +2,7 @@
 
  * [Introduction]
  * [Gallery GIMP capabilities (gallery)]
+ * []
+ * []
  * [BrainStorm Brainstorming] 
  * [LinkPage Useful links]
