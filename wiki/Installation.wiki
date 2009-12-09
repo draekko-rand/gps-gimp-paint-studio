@@ -1,4 +1,4 @@
-#labels Phase-Requirements
+#labels Phase-Deploy,Featured
 #Installation guide for GPS
 
 = Installation guide for GPS =
