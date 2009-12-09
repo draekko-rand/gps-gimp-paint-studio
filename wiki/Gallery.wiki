@@ -1,4 +1,4 @@
-#summary Example artwork created with GIMP
+#summary Example artwork created with GIMP+GPS
 #labels Featured
 
 =GIMP artwork=
