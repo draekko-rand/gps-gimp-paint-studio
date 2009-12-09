@@ -2,7 +2,7 @@
 
  * [Introduction]
  * [Gallery GIMP capabilities (gallery)]
- * []
+ * [GPS Gimp Paint Studio Videotutorials]
  * []
  * [BrainStorm Brainstorming] 
  * [LinkPage Useful links]
