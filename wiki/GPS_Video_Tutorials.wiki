@@ -1,5 +1,5 @@
+#summary GPS Gimp Paint Studio Videotutorials.
 #labels Featured
-#GPS Gimp Paint Studio Videotutorials.
 #sidebar TableOfContents
 = GPS Gimp Paint Studio Videotutorials  =
 The following videos shows what is GPS and how to use it. Enjoy them
