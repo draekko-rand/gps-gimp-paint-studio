@@ -1,5 +1,6 @@
 #labels Featured
 #example artwork created with GIMP
+#sidebar TableOfContents
 
 =GIMP artwork=
 
@@ -8,5 +9,3 @@
 http://th09.deviantart.net/fs42/300W/f/2009/086/b/4/Alien_meditation_by_TheShock.jpg
 http://th06.deviantart.net/fs45/300W/f/2009/086/4/0/Robot_loco_de_amor_by_TheShock.jpg
 http://th05.deviantart.net/fs43/300W/f/2009/086/2/f/Varon_Arrgante_by_TheShock.jpg
-
-
