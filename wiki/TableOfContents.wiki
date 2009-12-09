@@ -3,6 +3,5 @@
  * [Introduction]
  * [Gallery GIMP capabilities (gallery)]
  * [GPS_Video_Tutorials]
- * []
  * [BrainStorm Brainstorming] 
  * [LinkPage Useful links]
