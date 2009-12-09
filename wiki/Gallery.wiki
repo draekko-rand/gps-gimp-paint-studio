@@ -1,6 +1,6 @@
 #labels Featured
+#sidebar TableOfContents#
 #example artwork created with GIMP
-#sidebar TableOfContents
 
 =GIMP artwork=
 
