@@ -1,0 +1,14 @@
+#labels Phase-Requirements
+#Installation guide for GPS
+
+= Installation guide for GPS =
+
+How to install . in Linux and Win . Admit ideas
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
