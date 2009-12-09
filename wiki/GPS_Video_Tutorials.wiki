@@ -1,0 +1,11 @@
+#labels Featured
+#GPS Gimp Paint Studio Videotutorials.
+
+= GPS Gimp Paint Studio Videotutorials  =
+The following videos shows what is GPS and how to use it. Enjoy them
+==*Introduction to GPS*==
+<wiki:video url="http://www.youtube.com/watch?v=Y9tOnxHmRiw"/>
+==*Painting a simple sky*==
+<wiki:video url="http://www.youtube.com/watch?v=-mesoLSTa8o"/>
+==*Nebulae Preset*==
+<wiki:video url="http://www.youtube.com/watch?v=Ps0Fmae4xps&feature=related"/>
