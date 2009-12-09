@@ -1,8 +1,10 @@
 #summary Table of Contents
+#labels Featured
 
  * [Introduction]
  * [Gallery GIMP capabilities (gallery)]
  * [GPS_Video_Tutorials]
+ * [Features]
  * [Installation]
  * [BrainStorm Brainstorming] 
  * [LinkPage Useful links]
