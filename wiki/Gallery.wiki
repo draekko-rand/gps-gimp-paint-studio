@@ -1,7 +1,6 @@
 #labels Featured
-#sidebar TableOfContents#
 #example artwork created with GIMP
-
+#sidebar TableOfContents
 =GIMP artwork=
 
 [http://theshock.deviantart.com/art/Lusitan-Horse-123456740 http://th01.deviantart.net/fs42/300W/f/2009/143/7/1/Lusitan_Horse_by_TheShock.jpg]
