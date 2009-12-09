@@ -1,0 +1,16 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Features of GPS =
+
+Here i am going to explaing how to make cool things with the GPS presets.
+There are lot of things that we can do with the presets.
+Put some images like blogs post. Testing and experiments
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
