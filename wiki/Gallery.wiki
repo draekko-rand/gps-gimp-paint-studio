@@ -2,11 +2,13 @@
 #labels Featured
 
 =GIMP artwork=
-All works were done with *Gimp* and the package *Gimp Paint Studio*
+All these works were done with *Gimp* and the package *Gimp Paint Studio*
 The Artwork owns to their authors.
-Ramon Miranda
-Mozart Couto
+Ramon Miranda & Mozart Couto.
+_If you want to contribute with your art, please mailme first here_ mirandagraphic@gmail.com
 
+Please be patient while images are loading. big download
+----
 http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/sketch-fast.jpg
 http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/warrior.jpg
 http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/warrior-horse.jpg
