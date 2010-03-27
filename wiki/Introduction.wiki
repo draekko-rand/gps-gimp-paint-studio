@@ -4,7 +4,7 @@
 
 = Introduction = 
 
-[http://i458.photobucket.com/albums/qq308/TheShock_album/GPSlogoparahome-1.jpg center]
+[http://i458.photobucket.com/albums/qq308/TheShock_album/GPSlogoparahome-1.jpg <center>]
 
 _Gimp Paint Studio_ is, as described on the front page "a collection of *brushes* and accompanying "tool presets" for the free open-source program [http://www.gimp.org Gimp]. 
 
