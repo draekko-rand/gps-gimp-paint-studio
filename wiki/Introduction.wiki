@@ -4,6 +4,8 @@
 
 = Introduction = 
 
+[http://i458.photobucket.com/albums/qq308/TheShock_album/GPSlogoparahome-1.jpg center]
+
 _Gimp Paint Studio_ is, as described on the front page "a collection of *brushes* and accompanying "tool presets" for the free open-source program [http://www.gimp.org Gimp]. 
 
 But it is also an attempt at something more. It is also an independent initiative to push for the increased awareness that Gimp is _not_ only useful for cropping photos, adjusting colour balances and make minor website graphics. 
