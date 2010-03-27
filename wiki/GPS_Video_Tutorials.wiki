@@ -28,6 +28,27 @@ The following videos shows what is GPS and how to use it. Enjoy them and please,
 ==*Preview Gimp Paint Studio explicado*==
 <wiki:video url="http://www.youtube.com/watch?v=fApt1-1pINE"/>
 
-==*Preview Gimp Paint Studio explicado*==
-<wiki:video url="http://www.youtube.com/watch?v=fApt1-1pINE"/>
+==*GIMP_Introducción a Gimp Paint Studio 1/2*==
+<wiki:video url="http://www.youtube.com/watch?v=tjGqVsHCCHY"/>
+
+==*GIMP_Introducción a Gimp Paint Studio 2/2*==
+<wiki:video url="http://www.youtube.com/watch?v=sTkXXn1aLQo"/>
+
+==*Curso de gimp + GPS - Parte 1*==
+<wiki:video url="http://www.youtube.com/watch?v=2AgTzBHuegc"/>
+
+==*Curso de gimp + GPS - Parte 2*==
+<wiki:video url="http://www.youtube.com/watch?v=gDvikKHxFr8"/>
+
+==*Curso de gimp + GPS - Parte 3*==
+<wiki:video url="http://www.youtube.com/watch?v=lOb-NwFQaNE"/>
+
+==*Curso de gimp + GPS - Parte 4*==
+<wiki:video url="http://www.youtube.com/watch?v=T69NbiVAKpE"/>
+
+
+
+
+
+
 
