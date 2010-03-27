@@ -2,10 +2,32 @@
 #labels Featured
 #sidebar TableOfContents
 = GPS Gimp Paint Studio Videotutorials  =
-The following videos shows what is GPS and how to use it. Enjoy them
+The following videos shows what is GPS and how to use it. Enjoy them and please,see them in HD.Thw image quality is not the same.
+
 ==*Introduction to GPS*==
 <wiki:video url="http://www.youtube.com/watch?v=Y9tOnxHmRiw"/>
+
+==*Making of Nixie Pixel Portrait*==
+<wiki:video url="http://www.youtube.com/watch?v=9lHDsO5x-Tg"/>
+
 ==*Painting a simple sky*==
 <wiki:video url="http://www.youtube.com/watch?v=-mesoLSTa8o"/>
+
 ==*Nebulae Preset*==
-<wiki:video url="http://www.youtube.com/watch?v=Ps0Fmae4xps&feature=related"/>
+<wiki:video url="http://www.youtube.com/watch?v=Ps0Fmae4xps"/>
+
+==*Soft Light Tip*==
+<wiki:video url="http://www.youtube.com/watch?v=QN88s-alXPQ"/>
+
+
+-----
+-----
+
+= GPS Training Course (Spanish Audio) =
+
+==*Preview Gimp Paint Studio explicado*==
+<wiki:video url="http://www.youtube.com/watch?v=fApt1-1pINE"/>
+
+==*Preview Gimp Paint Studio explicado*==
+<wiki:video url="http://www.youtube.com/watch?v=fApt1-1pINE"/>
+
