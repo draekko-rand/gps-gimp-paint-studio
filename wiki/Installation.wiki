@@ -3,12 +3,41 @@
 
 = Installation guide for GPS =
 
-How to install . in Linux and Win . Admit ideas
 
+=How to install . in Linux and Win= .WIP please be patient.
 
-= Details =
+==How to install GPS==
+GIMP must be installed on your computer before installing GPS. If it is not you can download it from the official website. www.gimp.org
+Once installed we can continue with the process. If GIMP is already running, exit the program (File->Quit).  This will make it easier to follow the installation steps. This should only take a few minutes.
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Download the last version of GPS From the google code page:
+http://code.google.com/p/gps-gimp-paint-studio/downloads/list
+
+Unpack the file to any folder.  If you open this folder you will find the following folders and files:
+
+brushes (folder)
+palettes (folder)
+tool-options (folder)
+sessionrc (file)
+toolrc (file)
+
+The brushes folder holds all the GPS brushes. Copy the contents of this folder to your GIMP brushes folder
+On Linux:
+~/.Gimp-2.6/brushes
+On Windows:
+c:\documents and settings\<your username>\.Gimp-2.6/brushes
+
+The palettes folder holds all the GPS color palettes.  Copy this file to your GIMP palettes folder:
+On Linux:
+~/.Gimp-2.6/palettes
+On Windows:
+c:\documents and settings\<your username>\.Gimp-2.6/palettes
+
+Open the tool-options GPS in the folder and copy all its contents inside the folder "tool-options" to
+~/.Gimp-2.6/tool-options
+
+If you want to add some tools to the Toolbox then copy the  toolrc file to the top level of your GIMP configuration folder.  This file will add icons for the Hue/Saturation and Curves dialogs to the Toolbox.
+
+If you want to use GPS dialog layout then copy the file sessionrc to the top level of your GIMP configuration folder.  
+Note:  this will change the layout of GIMP's windows.  Save a backup copy of the original sessionrc (just rename it to sessionrc.old, for example) that you can restore if the new layout does not suit your needs.
+Start Gimp.  The next two steps are optional but will improve the overall usability of the user interface.  First,  go to Edit->Preferences->Toolbox and activate the three options there. Then go to Edit->Preferences->Tool Options.  On this page, under the Paint Options Shared Between Tools, disable the three options (Brush, Pattern, and Gradient).
