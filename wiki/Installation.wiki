@@ -47,6 +47,19 @@ _Note:  this will change the layout of GIMP's windows.  Save a backup copy of th
 
 Start Gimp.  The next two steps are optional but will improve the overall usability of the user interface.  First,  go to Edit->Preferences->Toolbox and activate the three options there. Then go to Edit->Preferences->Tool Options.  On this page, under the Paint Options Shared Between Tools, disable the three options (Brush, Pattern, and Gradient).
 
+*Final Tips*
+Launch the GIMP.
 
+Go to 
+	_Edit->Preferences->Image Windows/Mouse Pointers_
 
+dissable the “Show brush outline” option and make sure you have “checked” or enabled the “Show pointer for paint tools”.
+This will increase the speed of brushes when you are painting.
 
+Go to 
+	_Edit->Preferences->Toolbox_
+Enable the three options.
+
+Go to 
+	_Edit->Preferences->Tool options/Paint options shared between tools_
+Disable the three options.
