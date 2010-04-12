@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 #labels Featured
-THIS PAGE IS UNDER CONSTRUCTION
+<font size="18" color="#ff0000">THIS PAGE IS UNDER CONSTRUCTION</font>
 = Features of GPS =
 <p style="color: green">Testing <span style="color: red">colorful</span> text</p>
 <font color="red">test</font>
@@ -30,7 +30,7 @@ These presets are listed by  name found in the Tool Options Restore icon's menu.
 ----
 Semi-hard edge but with a fairly accurate outline for details. The quality of its stroke is halfway between a 2b and a mechanical pencil. This tool is sufficient for experienced designers to develop their rough Sketch. It has the advantages of a pencil but is not as hard pencil. (Although raising and lowering the opacity a little, it can easily become a hard pencil).
 
-http://3.bp.blogspot.com/_iXHeK9sB42s/SxwUGxst4_I/AAAAAAAAAYg/fwpuAJcJC-s/s320/prueba+fuego01.jpg
+<img="center">http://3.bp.blogspot.com/_iXHeK9sB42s/SxwUGxst4_I/AAAAAAAAAYg/fwpuAJcJC-s/s320/prueba+fuego01.jpg</img>
 
 *2B Pencil*
 ----
