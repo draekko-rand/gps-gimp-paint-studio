@@ -2,6 +2,7 @@
 #labels Featured
 THIS PAGE IS UNDER CONSTRUCTION
 = Features of GPS =
+<p style="color: green">Testing <span style="color: red">colorful</span> text</p>
 
 Here i am going to explaing how to make cool things with the GPS presets.
 There are lot of things that we can do with the presets.
