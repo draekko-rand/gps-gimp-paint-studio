@@ -7,6 +7,9 @@ The following videos shows what is GPS and how to use it. Enjoy them and please,
 ==*Introduction to GPS*==
 <wiki:video url="http://www.youtube.com/watch?v=Y9tOnxHmRiw"/>
 
+==*Preset Examples of GPS*==
+<wiki:video url="http://www.youtube.com/watch?v=rmcvR2yeGbQ"/>
+
 ==*Making of Nixie Pixel Portrait*==
 <wiki:video url="http://www.youtube.com/watch?v=9lHDsO5x-Tg"/>
 
@@ -18,6 +21,9 @@ The following videos shows what is GPS and how to use it. Enjoy them and please,
 
 ==*Soft Light Tip*==
 <wiki:video url="http://www.youtube.com/watch?v=QN88s-alXPQ"/>
+
+==*Smudge Tool trick *==
+<wiki:video url="http://www.youtube.com/watch?v=YnfgThDEZ5E"/>
 
 
 -----
@@ -78,8 +84,6 @@ The following videos shows what is GPS and how to use it. Enjoy them and please,
 
 
 *Proximamente nuevas entregas*
-
-
 
 
 
