@@ -25,6 +25,18 @@ The following videos shows what is GPS and how to use it. Enjoy them and please,
 ==*Smudge Tool trick *==
 <wiki:video url="http://www.youtube.com/watch?v=YnfgThDEZ5E"/>
 
+==*GIMP .Mapping the Mouse wheel*==
+<wiki:video url="http://www.youtube.com/watch?v=EVHWlohjGRQ"/>
+
+==*GIMP .Sketching Presets trick*==
+<wiki:video url="http://www.youtube.com/watch?v=3BgcaOe0w7Q"/>
+
+==*GIMP .Customizing the SplashScreen in gimp*==
+<wiki:video url="http://www.youtube.com/watch?v=l4L_3PMMVXk"/>
+
+==*Gimp. brush rotation controlled by shortcuts*==
+<wiki:video url="http://www.youtube.com/watch?v=f3KLqjf_eh8"/>
+
 
 -----
 -----
@@ -84,8 +96,6 @@ The following videos shows what is GPS and how to use it. Enjoy them and please,
 
 
 *Proximamente nuevas entregas*
-
-
 
 
 
