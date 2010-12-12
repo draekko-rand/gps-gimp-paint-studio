@@ -3,6 +3,10 @@
 
 _*for now PLEASE download the PDF user guide on the Downloads section.*_
 http://code.google.com/p/gps-gimp-paint-studio/downloads/list
+
+http://en.wikipedia.org/wiki/File:Under_construction_icon-blue.svg
+
+
 = Features of GPS =
 
 = PRESETS IN GIMP PAINT STUDIO =
