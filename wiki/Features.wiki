@@ -2,23 +2,8 @@
 #labels Featured
 <font size="18" color="#ff0000">THIS PAGE IS UNDER CONSTRUCTION</font>
 = Features of GPS =
-<p style="color: green">Testing <span style="color: red">colorful</span> text</p>
-<font color="red">test</font>
-<font face="verdana" color="green" type="trebuchet">This is some text!</font>
-<font size="18" color="#808080">This is another text!</font>
-Here i am going to explaing how to make cool things with the GPS presets.
-There are lot of things that we can do with the presets.
-Put some images like blogs post. Testing and experiments
-
-http://3.bp.blogspot.com/_iXHeK9sB42s/SxwUGxst4_I/AAAAAAAAAYg/fwpuAJcJC-s/s320/prueba+fuego01.jpg
-
-*Testing Rocket fire*
-
-http://2.bp.blogspot.com/_iXHeK9sB42s/SxwT5shlSqI/AAAAAAAAAYY/MRkTU5oXuoY/s320/Fire+Column.jpg
-
 
 = PRESETS IN GIMP PAINT STUDIO =
- WORK IN PROGRESS .
 *Prerequisites*
 ----
 In order for GPS to work properly your display should be at least 1280 x 960 pixels though higher resolution will provide more working space. It is not uncommon to work at 1600 x 1200 pixels and higher, or even with 2 monitors.  Remember that GPS is intended for graphic designers and artists who typically have access to larger displays.
