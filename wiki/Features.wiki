@@ -20,6 +20,9 @@ These presets are listed by  name found in the Tool Options Restore icon's menu.
 *Graphite Pencil*
 ----
 Semi-hard edge but with a fairly accurate outline for details. The quality of its stroke is halfway between a 2b and a mechanical pencil. This tool is sufficient for experienced designers to develop their rough Sketch. It has the advantages of a pencil but is not as hard pencil. (Although raising and lowering the opacity a little, it can easily become a hard pencil).
+<code>
+borde semi-duro, pero con un esquema bastante exacto para más detalles. La calidad de su carrera está a medio camino entre un 2b y un lápiz mecánico. Esta herramienta es suficiente para los diseñadores con experiencia para desarrollar su boceto. Tiene las ventajas de un lápiz, pero no es como el lápiz duro. (A pesar de subir y bajar la opacidad un poco, puede convertirse fácilmente en un lápiz duro).
+</code>
 
 *2B Pencil*
 ----
