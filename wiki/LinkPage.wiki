@@ -16,7 +16,7 @@
  * [http://www.gimp.org GIMP]
  * [http://gimp-brainstorm.blogspot.com/ GIMP UI Brainstorm]
  * [http://river-valley.tv/gimp-ui-taking-some-big-issues-by-the-horns/ GIMP UI future discussion (video)]
- * [http://www.gimptalk.com/ GimpTalk]
+ 
  * [http://sourceforge.jp/projects/gimp-painter/releases/?package_id=6799/ Gimp Painter Patch. (mixbrush and g-pen)]
  
 
@@ -27,6 +27,8 @@
 =Other links=
  * [http://www.davidrevoy.com/?article29/free-brush-kit-for-chaos-and-evolutions David Revoy´s Chaos&Evolution brushes and presets kit]
 
-[http://www.gimpusers.com/ http://i458.photobucket.com/albums/qq308/TheShock_album/Gimp%20testing/gu_logo_en.jpg] 
+[http://www.gimpusers.com/ http://i458.photobucket.com/albums/qq308/TheShock_album/Gimp%20testing/gu_logo_en.jpg]
+
+[http://www.gimptalk.com/ http://i458.photobucket.com/albums/qq308/TheShock_album/Gimp%20testing/main_header.gif] 
  
  
