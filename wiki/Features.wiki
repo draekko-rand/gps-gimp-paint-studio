@@ -1,7 +1,7 @@
 #labels Featured
 <font size="18" color="#ff0000">THIS PAGE IS UNDER CONSTRUCTION</font>
 
-_*for now PLEASE download the PDF user guide on the Downloads section.*_
+_*for now you can download the PDF user guide on the Downloads section.*_
 http://code.google.com/p/gps-gimp-paint-studio/downloads/list
 
 [http://en.wikipedia.org/wiki/File:Under_construction_icon-blue.svg http://i458.photobucket.com/albums/qq308/TheShock_album/underConstruction.png]
