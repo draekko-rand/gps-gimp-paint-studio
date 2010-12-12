@@ -4,10 +4,30 @@
 = Installation guide for GPS =
 
 
-=How to install . in Linux and Win= 
-*WIP please be patient. for more info check the users guide on downloads section.*
+=How to install GPS in Windows 7= 
+<wiki:video url="http://www.youtube.com/watch?v=1625YAwEMmQ"/>
 
-==How to install GPS==
+=How to install GPS in Windows XP= 
+<wiki:video url="http://www.youtube.com/watch?v=g1KnTepWQzs&NR=1&feature=fvwp"/>
+
+=How to install GPS in German Language (Dutsch)=
+<wiki:video url="http://www.youtube.com/watch?v=FpNWHgGw85k"/>
+
+=How to install GPS=
+<wiki:video url="http://www.youtube.com/watch?v=2_XuGPwlGxk"/>
+
+To install Gimp Paint Studio with Additional Brushes, first we must know where the user directory of Gimp is located. Assuming you have installed version 2.6 is usually found at:
+
+* Windows : C:\Documents and Settings\username\.gimp-2.6
+* Mac : /Users/username/Library/Application Support/Gimp
+* GNU/Linux : /home/username/.gimp-2.6
+
+Step by step installation: * Install all the GPS brushes: copy the contents of the brushes directory to the folder with the same name in the Gimp directory. * Also copy the entire contents of the tool-options and paste it into the folder tool-options in the program directory. * To have the new palette, copy the file mismuestras.aco.gpl from the palettes folder and paste into the folder with the same name in the directory Gimp. * If you also want to install the configuration of the GPS tools (recommended), you must copy the file toolrc and replace the already existing one (with the same name) in the program directory (you should make a copy of this file in case you later want to restore). * Do the same with the file sesionrc if you want to modify the GPS position and rearrange the windows on the Gimp's screen. You should know that the layout and the interface are highly optimized to work comfortably with a screen resolution of at least 1280 pixels wide. It is also advisable to install this file, but first make a backup copy of the original one, just in case.
+
+Once you have copied all directories and files, just start the Gimp, which will load the new configuration for the first time. In the tools panel you'll find two new shortcuts to the curves and tone / saturation, directly accessible from the main window. The interface of the window has been modified to have quick access to options for each tool and different color dialogs and palettes.
+
+
+==How to install GPS. explained in text mode==
 GIMP must be installed on your computer before installing GPS. If it is not you can download it from the official website. www.gimp.org
 Once installed we can continue with the process. If GIMP is already running, exit the program (File->Quit).  This will make it easier to follow the installation steps. This should only take a few minutes.
 
