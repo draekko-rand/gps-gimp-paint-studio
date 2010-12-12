@@ -21,15 +21,15 @@ GNU/Linux : /home/username/.gimp-2.6
 
 
 Step by step installation:
-*  Install all the GPS brushes: copy the contents of the brushes directory to the folder with the same name in the Gimp directory.
+ * Install all the GPS brushes: copy the contents of the brushes directory to the folder with the same name in the Gimp directory.
  
-*  Also copy the entire contents of the tool-options and paste it into the folder tool-options in the program directory. 
+ * Also copy the entire contents of the tool-options and paste it into the folder tool-options in the program directory. 
 
-*  To have the new palette, copy the file mismuestras.aco.gpl from the palettes folder and paste into the folder with the same name in the directory Gimp.
+ * To have the new palette, copy the file mismuestras.aco.gpl from the palettes folder and paste into the folder with the same name in the directory Gimp.
  
-*  If you also want to install the configuration of the GPS tools (recommended), you must copy the file toolrc and replace the already existing one (with the same name) in the program directory (you should make a copy of this file in case you later want to restore). 
+ * If you also want to install the configuration of the GPS tools (recommended), you must copy the file toolrc and replace the already existing one (with the same name) in the program directory (you should make a copy of this file in case you later want to restore). 
 
-*  Do the same with the file sesionrc if you want to modify the GPS position and rearrange the windows on the Gimp's screen. You should know that the layout and the interface are highly optimized to work comfortably with a screen resolution of at least 1280 pixels wide. It is also advisable to install this file, but first make a backup copy of the original one, just in case.
+ * Do the same with the file sesionrc if you want to modify the GPS position and rearrange the windows on the Gimp's screen. You should know that the layout and the interface are highly optimized to work comfortably with a screen resolution of at least 1280 pixels wide. It is also advisable to install this file, but first make a backup copy of the original one, just in case.
 
 Once you have copied all directories and files, just start the Gimp, which will load the new configuration for the first time. In the tools panel you'll find two new shortcuts to the curves and tone / saturation, directly accessible from the main window. The interface of the window has been modified to have quick access to options for each tool and different color dialogs and palettes.
 ----
@@ -50,11 +50,11 @@ http://code.google.com/p/gps-gimp-paint-studio/downloads/list
 
 Unpack the file to any folder. If you open this folder you will find the following folders and files:
 
-* brushes (folder)
-* palettes (folder)
-* tool-options (folder)
-* sessionrc (file)
-* toolrc (file)
+ * brushes (folder)
+ * palettes (folder)
+ * tool-options (folder)
+ * sessionrc (file)
+ * toolrc (file)
 
 The brushes folder holds all the GPS brushes. Copy the contents of this folder to your GIMP brushes folder
 On Linux:
