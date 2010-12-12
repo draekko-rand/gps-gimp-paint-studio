@@ -4,6 +4,7 @@
 =Personal homepages and galleries= 
 
  * [http://ramonmirandavisualart.blogspot.com/ Ramón Miranda]
+ * [http://vimeo.com/ramonmiranda Ramón Miranda on Vimeo]  
  * [http://www.davidrevoy.com/index.php?lang=en David Revoy]
  * [http://blogdodesenhador.blogspot.com/ Mozart Couto]
  * [http://griatch-art.deviantart.com/ Griatch]
@@ -16,11 +17,13 @@
  * [http://gimp-brainstorm.blogspot.com/ GIMP UI Brainstorm]
  * [http://river-valley.tv/gimp-ui-taking-some-big-issues-by-the-horns/ GIMP UI future discussion (video)]
  * [http://sourceforge.jp/projects/gimp-painter/releases/?package_id=6799/ Gimp Painter Patch. (mixbrush and g-pen)]
- * [http://www.davidrevoy.com/?article29/free-brush-kit-for-chaos-and-evolutions David Revoy´s Chaos&Evolution brushes and presets kit]
+ 
 
 =Other program links=
  * [http://mypaint.intilinux.com/ MyPaint]
  * [http://wiki.mypaint.info/index.php?title=UI/Brainstorm MyPaint GUI brainstorm]
-
+ 
 =Other links=
- * [http://www.libregraphicsmeeting.org/2009/ Libre Graphics meeting 2009] 
+ * [http://www.davidrevoy.com/?article29/free-brush-kit-for-chaos-and-evolutions David Revoy´s Chaos&Evolution brushes and presets kit]
+ 
+ 
