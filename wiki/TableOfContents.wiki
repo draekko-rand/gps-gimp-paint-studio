@@ -2,10 +2,10 @@
 #labels Featured
 
  * [Introduction]
+ * [Installation]
  * [Gallery GIMP capabilities (gallery)]
  * [Videotutorials_EN]
  * [Videotutoriales_ES]
  * [Features]
- * [Installation]
  * [BrainStorm Brainstorming] 
  * [LinkPage Useful links]
