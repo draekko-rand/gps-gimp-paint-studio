@@ -4,7 +4,7 @@
  * [Introduction]
  * [Gallery GIMP capabilities (gallery)]
  * [GPS_Video_Tutorials]
- * [Videoturiales ES]
+ * [VideoturialesES]
  * [Features]
  * [Installation]
  * [BrainStorm Brainstorming] 
