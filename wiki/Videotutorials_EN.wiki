@@ -1,0 +1,95 @@
+#summary GPS Gimp Paint Studio Videotutorials.
+#labels Featured
+#sidebar TableOfContents
+= GPS Gimp Paint Studio Videotutorials  =
+The following videos shows what is GPS and how to use it. Enjoy them and please,see them in HD.Thw image quality is not the same.
+
+==*Preset Examples of GPS*==
+<wiki:video url="http://www.youtube.com/watch?v=rmcvR2yeGbQ"/>
+
+==*Making of Nixie Pixel Portrait*==
+<wiki:video url="http://www.youtube.com/watch?v=9lHDsO5x-Tg"/>
+
+==*Painting a simple sky*==
+<wiki:video url="http://www.youtube.com/watch?v=-mesoLSTa8o"/>
+
+==*Nebulae Preset*==
+<wiki:video url="http://www.youtube.com/watch?v=Ps0Fmae4xps"/>
+
+==*Soft Light Tip*==
+<wiki:video url="http://www.youtube.com/watch?v=QN88s-alXPQ"/>
+
+==*Smudge Tool trick *==
+<wiki:video url="http://www.youtube.com/watch?v=YnfgThDEZ5E"/>
+
+==*GIMP .Mapping the Mouse wheel*==
+<wiki:video url="http://www.youtube.com/watch?v=EVHWlohjGRQ"/>
+
+==*GIMP .Sketching Presets trick*==
+<wiki:video url="http://www.youtube.com/watch?v=3BgcaOe0w7Q"/>
+
+==*GIMP .Customizing the SplashScreen in gimp*==
+<wiki:video url="http://www.youtube.com/watch?v=l4L_3PMMVXk"/>
+
+==*Gimp. brush rotation controlled by shortcuts*==
+<wiki:video url="http://www.youtube.com/watch?v=f3KLqjf_eh8"/>
+
+
+-----
+-----
+
+= GPS Training Course (Spanish Audio) =
+
+==*Preview Gimp Paint Studio explicado*==
+<wiki:video url="http://www.youtube.com/watch?v=fApt1-1pINE"/>
+
+==*GIMP_Introducción a Gimp Paint Studio 1/2*==
+<wiki:video url="http://www.youtube.com/watch?v=tjGqVsHCCHY"/>
+
+==*GIMP_Introducción a Gimp Paint Studio 2/2*==
+<wiki:video url="http://www.youtube.com/watch?v=sTkXXn1aLQo"/>
+
+==*Curso de gimp + GPS - Parte 1*==
+<wiki:video url="http://www.youtube.com/watch?v=2AgTzBHuegc"/>
+
+==*Curso de gimp + GPS - Parte 2*==
+<wiki:video url="http://www.youtube.com/watch?v=gDvikKHxFr8"/>
+
+==*Curso de gimp + GPS - Parte 3*==
+<wiki:video url="http://www.youtube.com/watch?v=lOb-NwFQaNE"/>
+
+==*Curso de gimp + GPS - Parte 4*==
+<wiki:video url="http://www.youtube.com/watch?v=T69NbiVAKpE"/>
+
+==*Curso de gimp + GPS - Parte 5*==
+<wiki:video url="http://www.youtube.com/watch?v=FzgtG8oIlEY"/>
+
+==*Curso de gimp + GPS - Parte 6*==
+<wiki:video url="http://www.youtube.com/watch?v=bA3EcFbpdGs"/>
+
+==*Curso de gimp + GPS - Parte 7*==
+<wiki:video url="http://www.youtube.com/watch?v=TlyMjOATRSM"/>
+
+==*Curso de gimp + GPS - Parte 8*==
+<wiki:video url="http://www.youtube.com/watch?v=tJgyKznvTrk"/>
+
+==*Curso de gimp + GPS - Parte 9*==
+<wiki:video url="http://www.youtube.com/watch?v=VQBJagODjCI"/>
+
+==*Curso de gimp + GPS - Parte 10*==
+<wiki:video url="http://www.youtube.com/watch?v=MxgcrE4ewOc"/>
+
+==*Curso de gimp + GPS - Parte 11*==
+<wiki:video url="http://www.youtube.com/watch?v=WRRL5g5XnZ4"/>
+
+==*Curso de gimp + GPS - Parte 12*==
+<wiki:video url="http://www.youtube.com/watch?v=YFbwzd1dK1w"/>
+
+==*Curso de gimp + GPS - Parte 13*==
+<wiki:video url="http://www.youtube.com/watch?v=9Q1itOCCUmY"/>
+
+==*Curso de gimp + GPS - Parte 14*==
+<wiki:video url="http://www.youtube.com/watch?v=Os_XYU8jGVs"/>
+
+
+*Proximamente nuevas entregas*
