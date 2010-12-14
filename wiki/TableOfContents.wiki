@@ -3,7 +3,7 @@
 
  * [Introduction]
  * [Gallery GIMP capabilities (gallery)]
- * [GPS_Video_Tutorials]
+ * [Videotutorials_EN]
  * [Videotutoriales_ES]
  * [Features]
  * [Installation]
