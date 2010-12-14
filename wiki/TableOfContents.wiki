@@ -6,6 +6,6 @@
  * [Installation]
  * [Videotutorials_EN]
  * [Videotutoriales_ES]
- * [Features]
- * [BrainStorm Brainstorming] 
+ * [Features] 
  * [LinkPage Useful links]
+ * [BrainStorm Brainstorming]
