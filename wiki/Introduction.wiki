@@ -14,22 +14,7 @@ Gimp is also *an excellent tool for digital painters*, creating completely new w
 
 The GPS's collected artistic media presets and brush collection is one step on the way towards making GIMP a more pleasant environment for digital artists. 
 
-So if you want to know more about GPS check it out the Wiki!
-
-[Gallery]
-
-[Installation]
-
-[Videotutorials_EN]
-
-[Videotutoriales_ES]
-
-[Features]
-
-[Brainstorm]
-
-[Useful links]
-
+So if you want to know more about GPS check it out the Wiki pages on the left side of the screen!
 
 
 = ... But why stop there? = 
