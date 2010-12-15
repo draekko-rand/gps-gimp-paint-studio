@@ -2,7 +2,7 @@
 #labels Featured
 
  * [Introduction]
- * [Gallery GIMP capabilities (gallery)]
+ * [Gallery]
  * [Installation]
  * [Videotutorials_EN]
  * [Videotutoriales_ES]
