@@ -2,7 +2,7 @@
 #labels Featured
 
  * [Introduction]
- * [Gallery]
+ * [Gallery GPS Gallery]
  * [Installation]
  * [Videotutorials_EN]
  * [Videotutoriales_ES]
