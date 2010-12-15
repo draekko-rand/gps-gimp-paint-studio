@@ -16,8 +16,6 @@ The GPS's collected artistic media presets and brush collection is one step on t
 
 So if you want to know more about GPS check it out the Wiki!
 
-[Introduction]
-
 [Gallery]
 
 [Installation]
@@ -27,6 +25,10 @@ So if you want to know more about GPS check it out the Wiki!
 [Videotutoriales_ES]
 
 [Features]
+
+[Brainstorm]
+
+[Useful links]
 
 
 
