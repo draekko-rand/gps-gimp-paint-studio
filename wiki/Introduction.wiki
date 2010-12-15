@@ -18,7 +18,7 @@ So if you want to know more about GPS check it out the Wiki!
 
 [Introduction]
 
-[GIMP capabilities(gallery)]
+[Gallery]
 
 [Installation]
 
