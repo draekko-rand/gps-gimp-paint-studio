@@ -7,6 +7,9 @@ Los siguientes videos muestran algunos aspectos de GPS.
  || *GIMP_Introducción a Gimp Paint Studio 1/2* <wiki:video url="http://www.youtube.com/watch?v=tjGqVsHCCHY"/>|| *GIMP_Introducción a Gimp Paint Studio 2/2* <wiki:video url="http://www.youtube.com/watch?v=sTkXXn1aLQo"/> ||
 
 ----
+== Curso de gimp + GPS ==
+Este curso capacita a los nuevos usuarios para trabajar de manera cómoda y eficiente dentro de Gimp+ GPS. Si quieres, tambien puedes ver la lista de reproducción en Youtube:
+http://www.youtube.com/user/TheShockito#grid/user/E723459DA9C1EFF3
 
  || *Curso de gimp + GPS - Parte 1* <wiki:video url="http://www.youtube.com/watch?v=2AgTzBHuegc"/> || *Curso de gimp + GPS - Parte 2* <wiki:video url="http://www.youtube.com/watch?v=gDvikKHxFr8"/> ||
 
