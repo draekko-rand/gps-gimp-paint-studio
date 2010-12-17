@@ -6,9 +6,9 @@ The following videos shows what is GPS and how to use it. Enjoy them and please,
 
  || *Preset Examples of GPS* <wiki:video url="http://www.youtube.com/watch?v=rmcvR2yeGbQ"/> || *Making of Nixie Pixel Portrait* <wiki:video url="http://www.youtube.com/watch?v=9lHDsO5x-Tg"/> ||
 
-|| *Painting a simple sky* <wiki:video url="http://www.youtube.com/watch?v=-mesoLSTa8o"/> || *Nebulae Preset* <wiki:video url="http://www.youtube.com/watch?v=Ps0Fmae4xps"/> ||
+ || *Painting a simple sky* <wiki:video url="http://www.youtube.com/watch?v=-mesoLSTa8o"/> || *Nebulae Preset* <wiki:video url="http://www.youtube.com/watch?v=Ps0Fmae4xps"/> ||
 
-|| *Soft Light Tip* <wiki:video url="http://www.youtube.com/watch?v=QN88s-alXPQ"/> || *Smudge Tool trick * <wiki:video url="http://www.youtube.com/watch?v=YnfgThDEZ5E"/> ||
+ || *Soft Light Tip* <wiki:video url="http://www.youtube.com/watch?v=QN88s-alXPQ"/> || *Smudge Tool trick * <wiki:video url="http://www.youtube.com/watch?v=YnfgThDEZ5E"/> ||
 
 ==*GIMP .Mapping the Mouse wheel*==
 <wiki:video url="http://www.youtube.com/watch?v=EVHWlohjGRQ"/>
