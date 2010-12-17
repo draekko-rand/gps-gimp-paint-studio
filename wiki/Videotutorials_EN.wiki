@@ -10,38 +10,17 @@ The following videos shows what is GPS and how to use it. Enjoy them and please,
 
  || *Soft Light Tip* <wiki:video url="http://www.youtube.com/watch?v=QN88s-alXPQ"/> || *Smudge Tool trick * <wiki:video url="http://www.youtube.com/watch?v=YnfgThDEZ5E"/> ||
 
-==*GIMP .Mapping the Mouse wheel*==
-<wiki:video url="http://www.youtube.com/watch?v=EVHWlohjGRQ"/>
+ || *GIMP .Mapping the Mouse wheel* <wiki:video url="http://www.youtube.com/watch?v=EVHWlohjGRQ"/> || *GIMP .Sketching Presets trick* <wiki:video url="http://www.youtube.com/watch?v=3BgcaOe0w7Q"/> ||
 
-==*GIMP .Sketching Presets trick*==
-<wiki:video url="http://www.youtube.com/watch?v=3BgcaOe0w7Q"/>
+ || *GIMP .Customizing the SplashScreen in gimp* <wiki:video url="http://www.youtube.com/watch?v=l4L_3PMMVXk"/> || *GIMP. brush rotation controlled by shortcuts* <wiki:video url="http://www.youtube.com/watch?v=f3KLqjf_eh8"/> ||
 
-==*GIMP .Customizing the SplashScreen in gimp*==
-<wiki:video url="http://www.youtube.com/watch?v=l4L_3PMMVXk"/>
+ || *GIMP PAINTER- inking a barbarian I)* <wiki:video url="http://www.youtube.com/watch?v=LXzb23Md4X4"/> || *GIMP PAINTER- inking a barbarian II)*
+<wiki:video url="http://www.youtube.com/watch?v=OpZua6d-mwY&feature=related"/> ||
 
-==*GIMP. brush rotation controlled by shortcuts*==
-<wiki:video url="http://www.youtube.com/watch?v=f3KLqjf_eh8"/>
+ || *GIMP PAINTER- inking a barbarian III)* <wiki:video url="http://www.youtube.com/watch?v=hSEMZvSrD6A&feature=related"/> || *GIMP. Finalizando Desenho Com Ferramenta "Tinta"(ink)* <wiki:video url="http://www.youtube.com/watch?v=gESr9LbUJRQ&feature=related"/> ||
 
-==*GIMP. Finalizando Desenho Com Ferramenta "Tinta"(ink)*==
-<wiki:video url="http://www.youtube.com/watch?v=gESr9LbUJRQ&feature=related"/>
+ || *GIMP PAINTER- Drawing and Painting with GPS 1.4)* <wiki:video url="http://www.youtube.com/watch?v=jIgO-vm9_iM&feature=related"/> || *GIMP PAINTER- Drawing and Painting with GPS 1.4 II)* <wiki:video url="http://www.youtube.com/watch?v=RlWKHITpgeQ&feature=related"/> ||
 
-==*GIMP PAINTER- inking a barbarian I)*==
-<wiki:video url="http://www.youtube.com/watch?v=LXzb23Md4X4"/>
+ || *GIMP PAINTER- Drawing and Painting with GPS 1.4 III)* <wiki:video url="http://www.youtube.com/watch?v=cNGX_yYAYt8&feature=fvw"/> || *GIMP PAINTER- Drawing and Painting with GPS 1.4 IV)* <wiki:video url="http://www.youtube.com/watch?v=7XrKGMO11ts&feature=fvw"/> ||
 
-==*GIMP PAINTER- inking a barbarian II)*==
-<wiki:video url="http://www.youtube.com/watch?v=OpZua6d-mwY&feature=related"/>
-
-==*GIMP PAINTER- inking a barbarian III)*==
-<wiki:video url="http://www.youtube.com/watch?v=hSEMZvSrD6A&feature=related"/>
-
-==*GIMP PAINTER- Drawing and Painting with GPS 1.4)*==
-<wiki:video url="http://www.youtube.com/watch?v=jIgO-vm9_iM&feature=related"/>
-
-==*GIMP PAINTER- Drawing and Painting with GPS 1.4 II)*==
-<wiki:video url="http://www.youtube.com/watch?v=RlWKHITpgeQ&feature=related"/>
-
-==*GIMP PAINTER- Drawing and Painting with GPS 1.4 III)*==
-<wiki:video url="http://www.youtube.com/watch?v=cNGX_yYAYt8&feature=fvw"/>
-
-==*GIMP PAINTER- Drawing and Painting with GPS 1.4 IV)*==
-<wiki:video url="http://www.youtube.com/watch?v=7XrKGMO11ts&feature=fvw"/>
+More to come...
