@@ -96,4 +96,4 @@ Enable the three options.
 
 Go to 
 	_Edit->Preferences->Tool options/Paint options shared between tools_
-Disable the three options.
+Dissable the three options.
