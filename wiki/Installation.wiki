@@ -87,7 +87,7 @@ Launch the GIMP.
 Go to 
 	_Edit->Preferences->Image Windows/Mouse Pointers_
 
-dissable the “Show brush outline” option and make sure you have “checked” or enabled the “Show pointer for paint tools”.
+disable the “Show brush outline” option and make sure you have “checked” or enabled the “Show pointer for paint tools”.
 This will increase the speed of brushes when you are painting.
 
 Go to 
@@ -96,4 +96,4 @@ Enable the three options.
 
 Go to 
 	_Edit->Preferences->Tool options/Paint options shared between tools_
-Dissable the three options.
+Disable the three options.
