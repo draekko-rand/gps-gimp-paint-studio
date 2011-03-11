@@ -1,11 +1,11 @@
 #summary Links to relevant places
 #sidebar TableOfContents
 
-=Personal GPS members galleries= 
+=GPS members galleries= 
 
  * [http://ramonmirandavisualart.blogspot.com/ Ramón Miranda]
  * [http://blogdodesenhador.blogspot.com/ Mozart Couto]
- * [http://trabiscos.blogspot.com/ Jose Americo Gobo]
+ * [http://trabiscos.blogspot.com/ Jose Americo Gobbo]
  * [http://www.davidrevoy.com/index.php?lang=en David Revoy]
  
 Old members (not active)
@@ -14,7 +14,7 @@ Old members (not active)
  * [http://www.alexkellyart.co.uk/ Alex Kelly]
  * [http://przemyslawie.cgsociety.org/gallery/ Geremek]
 
-=GIMP links=
+=GIMP official links=
 
  * [http://www.gimp.org GIMP]
  * [http://gimp-brainstorm.blogspot.com/ GIMP UI Brainstorm]
@@ -23,15 +23,15 @@ Old members (not active)
  * [http://sourceforge.jp/projects/gimp-painter/releases/?package_id=6799/ Gimp Painter Patch. (mixbrush and g-pen)]
  
 
-=Other program links=
- * [http://mypaint.intilinux.com/ MyPaint]
- * [http://wiki.mypaint.info/index.php?title=UI/Brainstorm MyPaint GUI brainstorm]
- 
-=Other links=
+=Resources links=
  * [http://www.davidrevoy.com/?article29/free-brush-kit-for-chaos-and-evolutions David Revoy´s Chaos&Evolution brushes and presets kit]
 
+=Forums=
 [http://www.gimpusers.com/ http://i458.photobucket.com/albums/qq308/TheShock_album/Gimp%20testing/gu_logo_en.jpg]
 
 [http://www.gimptalk.com/ http://i458.photobucket.com/albums/qq308/TheShock_album/Gimp%20testing/main_header.gif] 
- 
+
+=Other program links=
+ * [http://mypaint.intilinux.com/ MyPaint]
+ * [http://wiki.mypaint.info/index.php?title=UI/Brainstorm MyPaint GUI brainstorm]
  
