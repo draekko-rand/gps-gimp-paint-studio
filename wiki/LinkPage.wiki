@@ -24,6 +24,8 @@ Old members (not active)
  
 
 =Resources links=
+
+ * [http://registry.gimp.org/ GIMP Plugin Registry]
  * [http://www.davidrevoy.com/?article29/free-brush-kit-for-chaos-and-evolutions David Revoy´s Chaos&Evolution brushes and presets kit]
 
 =Forums=
