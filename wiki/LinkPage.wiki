@@ -16,25 +16,19 @@ Old members (not active)
 
 =GIMP official links=
 
- * [http://www.gimp.org GIMP]
+ * [http://www.gimp.org GIMP home]
+ * [http://docs.gimp.org/2.6/en/ Gimp User Manual]
+ * [http://www.gimp.org/tutorials/ Gimp Tutorials]
  * [http://gimp-brainstorm.blogspot.com/ GIMP UI Brainstorm]
- * [http://river-valley.tv/gimp-ui-taking-some-big-issues-by-the-horns/ GIMP UI future discussion (video)]
  
- 
-
 =Resources & tutorials links=
  * [http://sourceforge.jp/projects/gimp-painter/releases/?package_id=6799/ Gimp Painter Patch. (mixbrush and g-pen)]
-
  * [http://gmic.sourceforge.net/ GREYC's Magic Image Converter (G´MIC)]
-
+ * [http://www.flickr.com/groups/gmic/discuss] G´mic Flickr Discussion topics]
  * [http://registry.gimp.org/ GIMP Plugin Registry]
-
  * [http://www.todogimp.com/ Todo Gimp]
-
  * [http://www.gimphelp.org/ GimpHelp]
-
  * [http://www.davidrevoy.com/?article29/free-brush-kit-for-chaos-and-evolutions David Revoy´s Chaos&Evolution brushes and presets kit]
-
  * [http://www.mahvin.com/ mahvin all about gimp]
 
 =Forums=
@@ -45,7 +39,12 @@ Old members (not active)
  * [http://gimpchat.com/ Gimp Chat]
 
 
-=Other program links=
+=MyPaint links (related to painting tasks)=
  * [http://mypaint.intilinux.com/ MyPaint]
  * [http://wiki.mypaint.info/index.php?title=UI/Brainstorm MyPaint GUI brainstorm]
+
+=Conferences About Gimp=
+* [http://river-valley.tv/gimp-ui-taking-some-big-issues-by-the-horns/ GIMP UI future discussion (video)]
+
+
  
