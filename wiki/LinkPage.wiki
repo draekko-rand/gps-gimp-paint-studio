@@ -20,18 +20,30 @@ Old members (not active)
  * [http://gimp-brainstorm.blogspot.com/ GIMP UI Brainstorm]
  * [http://river-valley.tv/gimp-ui-taking-some-big-issues-by-the-horns/ GIMP UI future discussion (video)]
  
- * [http://sourceforge.jp/projects/gimp-painter/releases/?package_id=6799/ Gimp Painter Patch. (mixbrush and g-pen)]
  
 
-=Resources links=
+=Resources & tutorials links=
+ * [http://sourceforge.jp/projects/gimp-painter/releases/?package_id=6799/ Gimp Painter Patch. (mixbrush and g-pen)]
+
+ * [http://gmic.sourceforge.net/ GREYC's Magic Image Converter (G´MIC)]
 
  * [http://registry.gimp.org/ GIMP Plugin Registry]
+
+ * [http://www.todogimp.com/ Todo Gimp]
+
+ * [http://www.gimphelp.org/ GimpHelp]
+
  * [http://www.davidrevoy.com/?article29/free-brush-kit-for-chaos-and-evolutions David Revoy´s Chaos&Evolution brushes and presets kit]
 
-=Forums=
-[http://www.gimpusers.com/ http://i458.photobucket.com/albums/qq308/TheShock_album/Gimp%20testing/gu_logo_en.jpg]
+ * [http://www.mahvin.com/ mahvin all about gimp]
 
-[http://www.gimptalk.com/ http://i458.photobucket.com/albums/qq308/TheShock_album/Gimp%20testing/main_header.gif] 
+=Forums=
+ * [http://www.gimpusers.com/ http://i458.photobucket.com/albums/qq308/TheShock_album/Gimp%20testing/gu_logo_en.jpg]
+
+ * [http://www.gimptalk.com/ http://i458.photobucket.com/albums/qq308/TheShock_album/Gimp%20testing/main_header.gif] 
+
+ * [http://gimpchat.com/ Gimp Chat]
+
 
 =Other program links=
  * [http://mypaint.intilinux.com/ MyPaint]
