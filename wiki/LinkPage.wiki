@@ -39,7 +39,7 @@ Old members (not active)
  * [http://gimpchat.com/ Gimp Chat]
 
 
-=MyPaint links (related to painting tasks)=
+=Other links (related to painting tasks)=
  * [http://mypaint.intilinux.com/ MyPaint]
  * [http://wiki.mypaint.info/index.php?title=UI/Brainstorm MyPaint GUI brainstorm]
 
