@@ -14,9 +14,7 @@ Windows
 }}}
 
 
-=GNU/Linux OS=
----- 
-
+=GNU/Linux OS= 
 ==Instalation for GNU/Linux users (Ubuntu 10.10, Mint)==
 
 you can paste simply this, line by line in a terminal , the command start with a copy of your existing preset and gimp configuration , because it still important to keep the possibility to revert later.
@@ -32,12 +30,11 @@ rm GPS\ 1_5_final\ release.zip
 
 To install Gimp Paint Studio with Additional Brushes, first we must know where the user directory of Gimp is located. Assuming you have installed version 2.6 is usually found at:
 
-Windows : C:\Documents and Settings\username\.gimp-2.6
+/home/username/.gimp-2.6
 
-Mac : /Users/username/Library/Application Support/Gimp
-
-GNU/Linux : /home/username/.gimp-2.6
-
+----
+----
+----
 
 =Windows OS=
 ----
