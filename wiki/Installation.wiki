@@ -13,12 +13,13 @@ Windows
   *Windows 7
 }}}
 ----
+
 =GNU/Linux OS=
 ---- 
 
-Instalation for Linux users
+==Instalation for GNU/Linux users (Ubuntu 10.10, Mint)==
 
-you can paste simply this line by line in a terminal , the command start with a copy of your existing preset and gimp configuration , because it still important to keep the possibility to revert later.
+you can paste simply this, line by line in a terminal , the command start with a copy of your existing preset and gimp configuration , because it still important to keep the possibility to revert later.
 {{{
 mv ~/.gimp-2.6 ~/.gimp-2.6-backup
 wget http://gps-gimp-paint-studio.googlecode.com/files/GPS%201_5_final%20release.zip
@@ -26,7 +27,7 @@ unzip GPS\ 1_5_final\ release.zip -d ~/.gimp-2.6
 rm GPS\ 1_5_final\ release.zip
 }}}
 
-==How to install GPS in Ubuntu by [http://www.youtube.com/user/Tru3m0sl3m Tru3m0sl3m]==
+==How to install GPS in Ubuntu using Folders by [http://www.youtube.com/user/Tru3m0sl3m Tru3m0sl3m]==
 <wiki:video url="http://www.youtube.com/watch?v=2_XuGPwlGxk"/>
 
 To install Gimp Paint Studio with Additional Brushes, first we must know where the user directory of Gimp is located. Assuming you have installed version 2.6 is usually found at:
@@ -51,7 +52,8 @@ GNU/Linux : /home/username/.gimp-2.6
 
 
 
-Step by step installation:
+==Step by step installation==
+
  * Install all the GPS brushes: copy the contents of the brushes directory to the folder with the same name in the Gimp directory.
  
  * Also copy the entire contents of the tool-options and paste it into the folder tool-options in the program directory. 
