@@ -11,6 +11,8 @@ Windows
   *Windows Vista
   *Windows XP
   *Windows 7
+
+Installing GPS in 10 steps.
 }}}
 
 
@@ -45,7 +47,7 @@ rm GPS\ 1_5_final\ release.zip
 <wiki:video url="http://www.youtube.com/watch?v=FpNWHgGw85k"/>
 
 ----
-==Step by step installation. GPS in 10 steps==
+==Installing GPS in 10 steps==
 GIMP must be installed on your computer before installing GPS. If it is not you can download it from the official website. www.gimp.org
 Once installed we can continue with the process. If GIMP is already running, exit the program (File->Quit).  This will make it easier to follow the installation steps. This should only take a few minutes.
 
