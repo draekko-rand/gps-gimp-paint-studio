@@ -8,18 +8,18 @@ http://1.bp.blogspot.com/-4htPBLUuXy8/TZnIE86IcJI/AAAAAAAAAvw/Az9Jcn0JlW0/s320/s
 = Features of GPS =
 
 == PRESETS IN GIMP PAINT STUDIO ==
-*Better Layout Design*
+===*Better Layout Design*===
 ----
 New bigger and reordered layout for better High Res Works. 
 It is nice to have big space where we can paint freely and comfortably. So GPS is been redesigned to achieve more space and better tools location.
 
 In order for GPS to work properly your display should be at least 1280 x 960 pixels though higher resolution will provide more working space. It is not uncommon to work at 1600 x 1200 pixels and higher, or even with 2 monitors.  Remember that GPS is intended for graphic designers and artists who typically have access to larger displays.
 
-*Chaos & Evolutions Brushpack included by default*
+===*Chaos & Evolutions Brushpack included by default*===
 ----
 I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions created by David Revoy the ArtDirector of the Blender open source movie ,Sintel
 
-*presets for more tools, not only painting tools*
+===*presets for more tools, not only painting tools*===
 ----
 We can use more tools to do other usual tasks as Gradient effects, cropping  work ,cloning  and much more.
 
@@ -38,11 +38,11 @@ We can use more tools to do other usual tasks as Gradient effects, cropping  wor
   * Mixbrush Presets. (only with Gimp painter)
   * G-Pen Presets. (only with Gimp painter)
 
-*Tag System*
+===*Tag System*===
 ----
 We have now a better way to understand where our presets are, and how they work. I have included the Blendmode of some presets. And also a type of hint by Select Gradient or Select Foreground color. That makes the presets management  faster
 
-*A complete pack to fit our artistic needs that includes*
+===*A complete pack to fit our artistic needs that includes*===
 ----
   * Gradients for presets and fx.
   * +200 brushes.
@@ -50,7 +50,7 @@ We have now a better way to understand where our presets are, and how they work.
   * High resolution Patterns to mimic artistic Mediums.
 
 
-*Final Words?*
+===*Final Words?*===
 ----
 GIMP is a tool, and therefore it is more important who use the tool than the tool itself.Art is about that concept. It must be fun and i sure you painting with gimp and GPS is very fun.
 
