@@ -72,11 +72,12 @@ GNU/Linux : /home/username/.gimp-2.6
   #  If you want to *add some tools to the Toolbox* then copy the  *toolrc* file to the top level of your GIMP configuration folder.  This file will add icons for the Hue/Saturation and Curves dialogs to the Toolbox.
   #  If you want to use *GPS dialog layout* then copy the file *sessionrc* to the top level of your GIMP configuration folder. (_Note:  this will change the layout of GIMP's windows.  Save a backup copy of the original sessionrc (just rename it to sessionrc.old, for example) that you can restore if the new layout does not suit your needs._)
   # Start Gimp.  The next two steps are optional but will improve the overall usability of the user interface.
-_Edit->Preferences->Toolbox_
+  *_Edit->Preferences->Toolbox_
 and activate the three options there.
-_Edit->Preferences->Tool Options_  
+  *_Edit->Preferences->Tool Options_  
 On this page, under the Paint Options Shared Between Tools, disable the three options (Brush, Pattern, and Gradient).
-_Edit->Preferences->Image Windows/Mouse Pointers_
+  *_Edit->Preferences->Image Windows/Mouse Pointers_
 disable the “Show brush outline” option and make sure you have “checked” or enabled the “Show pointer for paint tools”.
+
 This will increase the speed of brushes when you are painting.
-  #That is  all. Enjoy it, the most important step!
+  10. That's  all. Enjoy it, the most important step!
