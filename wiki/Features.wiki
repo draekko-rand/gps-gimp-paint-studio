@@ -1,7 +1,8 @@
 #labels Featured
-
 you can download the PDF user guide on the Downloads section.
 http://code.google.com/p/gps-gimp-paint-studio/downloads/list
+
+http://1.bp.blogspot.com/-4htPBLUuXy8/TZnIE86IcJI/AAAAAAAAAvw/Az9Jcn0JlW0/s320/solo-GPS.jpg
 
 = Features of GPS =
 
@@ -42,10 +43,10 @@ We have now a better way to understand where our presets are, and how they work.
 
 *A complete pack to fit our artistic needs that includes*
 ----
-  *Gradients for presets and fx.
-  *+200 brushes.
-  *Is really useful to have a complete brushpackage to use in our works.isn´t it?
-  *HighRes Patterns to mimic artistic Mediums.
+  * Gradients for presets and fx.
+  * +200 brushes.
+  * Is really useful to have a complete brushpackage to use in our works.isn´t it?
+  * HighRes Patterns to mimic artistic Mediums.
 
 
 *Final Words?*
@@ -55,10 +56,10 @@ GIMP is a tool, and therefore it is more important who use the tool than the too
 I encourage you to follow us on Tweeter, facebook, and you will learn how to enjoy and improve your painting skills  quickly.
 If you like it , you can subscribe the channel on youtube ,you can share it, and also comment on the blog
 
-GPS Home http://code.google.com/p/gps-gimp-paint-studio/
-Tweeter http://twitter.com/#!/GimpPaintStudio
-DeviantArt http://theshock.deviantart.com/
-WEB  http://www.ramonmiranda.com/
+  * GPS Home http://code.google.com/p/gps-gimp-paint-studio/ 
+  * Tweeter http://twitter.com/#!/GimpPaintStudio 
+  * DeviantArt http://theshock.deviantart.com/ 
+  * WEB  http://www.ramonmiranda.com/
 
 
 
@@ -69,7 +70,5 @@ GPS project Chairman
 
 GPS can be used for any purpose without restriction, under those terms:
 http://creativecommons.org/licenses/by-sa/3.0/ 
-
-
 
 
