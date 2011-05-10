@@ -51,9 +51,9 @@ Once installed we can continue with the process. If GIMP is already running, exi
 
 Download the last version of GPS From the google code page:
 
-'http://code.google.com/p/gps-gimp-paint-studio/downloads/list'
+http://code.google.com/p/gps-gimp-paint-studio/downloads/list
 
-To install Gimp Paint Studio, first we must know where the user directory of Gimp is located. Assuming you have installed version 2.6 is usually found at:
+To install Gimp Paint Studio, first we must know where the user directory of Gimp is located. Assuming you have installed Gimp version 2.6.x (where x can be 10, 11 or later...) is usually found at:
 
 Windows : C:\Documents and Settings\username\.gimp-2.6
 
@@ -61,67 +61,33 @@ Mac : /Users/username/Library/Application Support/Gimp
 
 GNU/Linux : /home/username/.gimp-2.6 
 
- * Install all the GPS brushes: copy the contents of the brushes directory to the folder with the same name in the Gimp directory.
+ # Copy all the GPS brushes: copy the contents of the brushes directory to the folder with the same name in the Gimp directory.(/.gimp-2.6)
  
- * Also copy the entire contents of the tool-options and paste it into the folder tool-options in the program directory. 
+ # Also copy the entire contents of the tool-options and paste it into the folder tool-options in the program directory. 
 
- * To have the new palette, copy the file mismuestras.aco.gpl from the palettes folder and paste into the folder with the same name in the directory Gimp.
+ # To have the new palette, copy the file mismuestras.aco.gpl from the palettes folder and paste into the folder with the same name in the directory Gimp.
  
- * If you also want to install the configuration of the GPS tools (recommended), you must copy the file toolrc and replace the already existing one (with the same name) in the program directory (you should make a copy of this file in case you later want to restore). 
+ #  If you also want to install the configuration of the GPS tools (recommended), you must copy the file toolrc and replace the already existing one (with the same name) in the program directory (you should make a copy of this file in case you later want to restore). 
 
- * Do the same with the file sesionrc if you want to modify the GPS position and rearrange the windows on the Gimp's screen. You should know that the layout and the interface are highly optimized to work comfortably with a screen resolution of at least 1280 pixels wide. It is also advisable to install this file, but first make a backup copy of the original one, just in case.
+ # Do the same with the file sesionrc if you want to modify the GPS position and rearrange the windows on the Gimp's screen. You should know that the layout and the interface are highly optimized to work comfortably with a screen resolution of at least 1280 pixels wide. It is also advisable to install this file, but first make a backup copy of the original one, just in case.
 
-Once you have copied all directories and files, just start the Gimp, which will load the new configuration for the first time. In the tools panel you'll find two new shortcuts to the curves and tone / saturation, directly accessible from the main window. The interface of the window has been modified to have quick access to options for each tool and different color dialogs and palettes.
-----
-
+ # .Once you have copied all directories and files, just start the Gimp, which will load the new configuration for the first time. In the tools panel you'll find two new shortcuts to the curves and tone / saturation, directly accessible from the main window. The interface of the window has been modified to have quick access to options for each tool and different color dialogs and palettes.
 
 
-Unpack the file to any folder. If you open this folder you will find the following folders and files:
+ #  If you want to *add some tools to the Toolbox* then copy the  *toolrc* file to the top level of your GIMP configuration folder.  This file will add icons for the Hue/Saturation and Curves dialogs to the Toolbox.
 
- * brushes (folder)
- * palettes (folder)
- * tool-options (folder)
- * sessionrc (file)
- * toolrc (file)
-
-The brushes folder holds all the GPS brushes. Copy the contents of this folder to your GIMP brushes folder
-On Linux:
-_~/.Gimp-2.6/brushes_
-
-On Windows:
-_c:\documents and settings\<your username>\.Gimp-2.6/brushes_
-
-The palettes folder holds all the GPS color palettes.  Copy this file to your GIMP palettes folder:
-On Linux:
-_~/.Gimp-2.6/palettes_
-
-On Windows:
-_c:\documents and settings\<your username>\.Gimp-2.6/palettes_
-
-Open the tool-options GPS in the folder and copy all its contents inside the folder "tool-options" to
-_~/.Gimp-2.6/tool-options_
-
-If you want to *add some tools to the Toolbox* then copy the  *toolrc* file to the top level of your GIMP configuration folder.  This file will add icons for the Hue/Saturation and Curves dialogs to the Toolbox.
-
-If you want to use *GPS dialog layout* then copy the file *sessionrc* to the top level of your GIMP configuration folder.  
+ #  If you want to use *GPS dialog layout* then copy the file *sessionrc* to the top level of your GIMP configuration folder.  
 
 _Note:  this will change the layout of GIMP's windows.  Save a backup copy of the original sessionrc (just rename it to sessionrc.old, for example) that you can restore if the new layout does not suit your needs._
 
-Start Gimp.  The next two steps are optional but will improve the overall usability of the user interface.  First,  go to Edit->Preferences->Toolbox and activate the three options there. Then go to Edit->Preferences->Tool Options.  On this page, under the Paint Options Shared Between Tools, disable the three options (Brush, Pattern, and Gradient).
-
-*Final Tips*
-Launch the GIMP.
-
-Go to 
-	_Edit->Preferences->Image Windows/Mouse Pointers_
-
+ # Start Gimp.  The next two steps are optional but will improve the overall usability of the user interface.
+_Edit->Preferences->Toolbox_
+and activate the three options there.
+_Edit->Preferences->Tool Options_  
+On this page, under the Paint Options Shared Between Tools, disable the three options (Brush, Pattern, and Gradient).
+_Edit->Preferences->Image Windows/Mouse Pointers_
 disable the “Show brush outline” option and make sure you have “checked” or enabled the “Show pointer for paint tools”.
 This will increase the speed of brushes when you are painting.
 
-Go to 
-	_Edit->Preferences->Toolbox_
-Enable the three options.
+That is  all. Enjoy it!
 
-Go to 
-	_Edit->Preferences->Tool options/Paint options shared between tools_
-Disable the three options.
