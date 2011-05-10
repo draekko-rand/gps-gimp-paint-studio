@@ -9,10 +9,12 @@ http://1.bp.blogspot.com/-4htPBLUuXy8/TZnIE86IcJI/AAAAAAAAAvw/Az9Jcn0JlW0/s320/s
 
 ===*Better Layout Design*===
 ----
-New bigger and reordered layout for better High Res Works. 
-It is nice to have big space where we can paint freely and comfortably. So GPS is been redesigned to achieve more space and better tools location.
+New bigger and redesigned layout to achieve more space and better tools location. 
 
-In order for GPS to work properly your display should be at least 1280 x 960 pixels though higher resolution will provide more working space. It is not uncommon to work at 1600 x 1200 pixels and higher, or even with 2 monitors.  Remember that GPS is intended for graphic designers and artists who typically have access to larger displays.
+http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpGPSLayout.jpg
+(all windows location are stored on the "sessionrc" file)
+
+In order for GPS to work properly *your display should be at least 1280 x 960 pixels* though higher resolution will provide more working space. It is not uncommon to work at 1600 x 1200 pixels and higher, or even with 2 monitors.  Remember that *GPS is intended for graphic designers* and artists who typically have access to larger displays.
 
 
 ===*Chaos & Evolutions Brushpack included by default*===
