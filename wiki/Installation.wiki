@@ -28,9 +28,6 @@ rm GPS\ 1_5_final\ release.zip
 ==How to install GPS in Ubuntu using Folders by [http://www.youtube.com/user/Tru3m0sl3m Tru3m0sl3m]==
 <wiki:video url="http://www.youtube.com/watch?v=2_XuGPwlGxk"/>
 
-To install Gimp Paint Studio with Additional Brushes, first we must know where the user directory of Gimp is located. Assuming you have installed version 2.6 is usually found at:
-
-/home/username/.gimp-2.6
 
 ----
 ----
@@ -44,12 +41,25 @@ To install Gimp Paint Studio with Additional Brushes, first we must know where t
 ==How to install GPS in Windows 7 by [http://www.youtube.com/user/reeceyamato reeceyamato]== 
 <wiki:video url="http://www.youtube.com/watch?v=1625YAwEMmQ"/>
 
-=How to install GPS in German Language (Dutsch) by [http://www.youtube.com/user/HoneyballCookie HoneyballCookie]=
+==How to install GPS in German Language (Dutsch) by [http://www.youtube.com/user/HoneyballCookie HoneyballCookie]==
 <wiki:video url="http://www.youtube.com/watch?v=FpNWHgGw85k"/>
 
-
-
+----
 ==Step by step installation==
+GIMP must be installed on your computer before installing GPS. If it is not you can download it from the official website. www.gimp.org
+Once installed we can continue with the process. If GIMP is already running, exit the program (File->Quit).  This will make it easier to follow the installation steps. This should only take a few minutes.
+
+Download the last version of GPS From the google code page:
+
+'http://code.google.com/p/gps-gimp-paint-studio/downloads/list'
+
+To install Gimp Paint Studio, first we must know where the user directory of Gimp is located. Assuming you have installed version 2.6 is usually found at:
+
+Windows : C:\Documents and Settings\username\.gimp-2.6
+
+Mac : /Users/username/Library/Application Support/Gimp
+
+GNU/Linux : /home/username/.gimp-2.6 
 
  * Install all the GPS brushes: copy the contents of the brushes directory to the folder with the same name in the Gimp directory.
  
@@ -65,16 +75,6 @@ Once you have copied all directories and files, just start the Gimp, which will 
 ----
 
 
-
-
-
-
-==How to install GPS. explained in text mode==
-GIMP must be installed on your computer before installing GPS. If it is not you can download it from the official website. www.gimp.org
-Once installed we can continue with the process. If GIMP is already running, exit the program (File->Quit).  This will make it easier to follow the installation steps. This should only take a few minutes.
-
-Download the last version of GPS From the google code page:
-http://code.google.com/p/gps-gimp-paint-studio/downloads/list
 
 Unpack the file to any folder. If you open this folder you will find the following folders and files:
 
