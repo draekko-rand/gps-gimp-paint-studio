@@ -56,8 +56,9 @@ We have now a better way to understand where our presets are, and how they work.
 http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/resources.jpg
   * Gradients for presets and fx.
   * +200 brushes.
-  * Is really useful to have a complete brushpackage to use in our works.isn´t it?
   * High resolution Patterns to mimic artistic Mediums.
+
+http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpPaintStudio-real-mediums.jpg
 
 
 
