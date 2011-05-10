@@ -19,6 +19,8 @@ In order for GPS to work properly *your display should be at least 1280 x 960 pi
 
 ===*Chaos & Evolutions Brushpack included by default*===
 ----
+http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpPaintStudio-ce-David.jpg
+
 I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions created by David Revoy the ArtDirector of the Blender open source movie ,Sintel
 
 
@@ -47,6 +49,8 @@ We can use more tools to do other usual tasks as Gradient effects, cropping  wor
 
 ===*Tag System*===
 ----
+http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpPaintStudio-tag-system.jpg
+
 We have now a better way to understand where our presets are, and how they work. I have included the Blendmode of some presets. And also a type of hint by Select Gradient or Select Foreground color. That makes the presets management  faster
 
 
