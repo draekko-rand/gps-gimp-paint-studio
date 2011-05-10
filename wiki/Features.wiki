@@ -15,9 +15,13 @@ It is nice to have big space where we can paint freely and comfortably. So GPS i
 
 In order for GPS to work properly your display should be at least 1280 x 960 pixels though higher resolution will provide more working space. It is not uncommon to work at 1600 x 1200 pixels and higher, or even with 2 monitors.  Remember that GPS is intended for graphic designers and artists who typically have access to larger displays.
 
+
+
 ===*Chaos & Evolutions Brushpack included by default*===
 ----
 I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions created by David Revoy the ArtDirector of the Blender open source movie ,Sintel
+
+
 
 ===*Presets for more tools, not only painting tools*===
 ----
@@ -38,9 +42,13 @@ We can use more tools to do other usual tasks as Gradient effects, cropping  wor
   * Mixbrush Presets. (only with Gimp painter)
   * G-Pen Presets. (only with Gimp painter)
 
+
+
 ===*Tag System*===
 ----
 We have now a better way to understand where our presets are, and how they work. I have included the Blendmode of some presets. And also a type of hint by Select Gradient or Select Foreground color. That makes the presets management  faster
+
+
 
 ===*A complete pack to fit our artistic needs that includes*===
 ----
@@ -48,6 +56,8 @@ We have now a better way to understand where our presets are, and how they work.
   * +200 brushes.
   * Is really useful to have a complete brushpackage to use in our works.isn´t it?
   * High resolution Patterns to mimic artistic Mediums.
+
+
 
 
 ===*Final Words?*===
@@ -61,6 +71,7 @@ If you like it , you can subscribe the channel on youtube ,you can share it, and
   * Tweeter http://twitter.com/#!/GimpPaintStudio 
   * Deviant Art http://theshock.deviantart.com/ 
   * WEB  http://www.ramonmiranda.com/
+
 
 
 
