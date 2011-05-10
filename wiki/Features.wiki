@@ -1,296 +1,75 @@
 #labels Featured
-<font size="18" color="#ff0000">THIS PAGE IS UNDER CONSTRUCTION</font>
 
-_*for now you can download the PDF user guide on the Downloads section.*_
+you can download the PDF user guide on the Downloads section.
 http://code.google.com/p/gps-gimp-paint-studio/downloads/list
-
-[http://en.wikipedia.org/wiki/File:Under_construction_icon-blue.svg http://i458.photobucket.com/albums/qq308/TheShock_album/underConstruction.png]
-
 
 = Features of GPS =
 
-= PRESETS IN GIMP PAINT STUDIO =
-*Prerequisites*
+== PRESETS IN GIMP PAINT STUDIO ==
+*Display*
 ----
+New bigger and reordered layout for better High Res Works. 
+It is nice to have big space where we can paint freely and comfortably. So GPS is been redesigned to achieve more space and better tools location.
+
 In order for GPS to work properly your display should be at least 1280 x 960 pixels though higher resolution will provide more working space. It is not uncommon to work at 1600 x 1200 pixels and higher, or even with 2 monitors.  Remember that GPS is intended for graphic designers and artists who typically have access to larger displays.
 
-==Paintbrush Presets==
-These presets are listed by  name found in the Tool Options Restore icon's menu.
-
-*Graphite Pencil*
+*Chaos & Evolutions Brushpack included by default*
 ----
-Semi-hard edge but with a fairly accurate outline for details. The quality of its stroke is halfway between a 2b and a mechanical pencil. This tool is sufficient for experienced designers to develop their rough Sketch. It has the advantages of a pencil but is not as hard pencil. (Although raising and lowering the opacity a little, it can easily become a hard pencil).
+I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions created by David Revoy the ArtDirector of the Blender open source movie ,Sintel
 
-
-*2B Pencil*
+*presets for more tools, not only painting tools*
 ----
-Like a real 2B pencil. It has a tip that is not too hard, which is perfect for quick sketches without much detail where we're only looking for a rough idea of shapes and volumes. Is meant to not reach a pitch black, but gray.
+We can use more tools to do other usual tasks as Gradient effects, cropping  work ,cloning  and much more.
 
-*6B Pencil*
+  * Selection Presets
+  * Cropping Presets
+  * Fill Presets
+  * Gradient Presets
+  * Pencil Presets
+  * Paintbrush Presets
+  * Smudge Presets
+  * Airbrush Presets
+  * Eraser Presets
+  * Ink Tool Presets
+  * Cloning Presets
+  * Brush/Sharpen Presets
+  * Mixbrush Presets. (only with Gimp painter)
+  * G-Pen Presets. (only with Gimp painter)
+
+*Tag System*
 ----
-Soft tip pencil. It's ideal for shading but not for drawing details (you won't be able to make nice eyelashes with it). But as in real life, it can increase the range of shading or make the drawing more intense by filling in key areas with high contrast. It may seem a little greasy, or at least it seems to me when I use it but it is fun making messy drawings, making them appear more loose.
+We have now a better way to understand where our presets are, and how they work. I have included the Blendmode of some presets. And also a type of hint by Select Gradient or Select Foreground color. That makes the presets management  faster
 
-*Graphite Shadow*
+*A complete pack to fit our artistic needs that includes*
 ----
-Something that is often very useful in traditional painting is to apply quick shading to our sketches to give them the feeling of being a 3D object .This way we can do a better work on the lighting of our image. This tool helps with that, by quickly filling the blank spaces with a gray stroke-like texture.
+  *Gradients for presets and fx.
+  *+200 brushes.
+  *Is really useful to have a complete brushpackage to use in our works.isn´t it?
+  *HighRes Patterns to mimic artistic Mediums.
 
-*BIC Pen*
+
+*Final Words?*
 ----
-Who doesn't know the famous BIC pens? Well, I simply like the idea of having something similar in my image editing program. So this  is a  personal wish. XD
-It is useful for making notes or comments on images or just scribbling a little. It self-darkens, even reaching a black color when you draw over the sample place multiple times.
+GIMP is a tool, and therefore it is more important who use the tool than the tool itself.Art is about that concept. It must be fun and i sure you painting with gimp and GPS is very fun.
 
-*Nice SketchingPen*
+I encourage you to follow us on Tweeter, facebook, and you will learn how to enjoy and improve your painting skills  quickly.
+If you like it , you can subscribe the channel on youtube ,you can share it, and also comment on the blog
+
+GPS Home http://code.google.com/p/gps-gimp-paint-studio/
+Tweeter http://twitter.com/#!/GimpPaintStudio
+DeviantArt http://theshock.deviantart.com/
+WEB  http://www.ramonmiranda.com/
+
+
+
 ----
-This tool is a mixture of pencil and ink. It doesn't have a contour as defined as the ink but it's not as smooth as a pencil. It's a personal preference. I saw another artist use it and the result seemed very pleasant to the eye. Hence the name. As with pencils, it can be used to make sketches.
+best regards
+Ramón Miranda
+GPS project Chairman
 
-*Normal Brush*
-----
-The classic of classics. The prehistory of digital art. The beginning of any CG artist. A simple circle like a brush tip and pressure-sensitive as opacity. its advantage is that it is VERY fast. As a parametric brush (not defined by a gray-scale sample, but by mathematical equations with parameters) it's very versatile. May be hard, soft, stretched, spaced out, rotated ...  there are artists who can paint true wonderful pieces of art with just this brush.
+GPS can be used for any purpose without restriction, under those terms:
+http://creativecommons.org/licenses/by-sa/3.0/ 
 
-*Detail Brush*
-----
-This is the same as the Normal Brush but for details, so we don't go into a detailed description. Nor is it necessary to show a screenshot.
 
-*Fast Block-Brush*
-----
-It is a variant of normal Brush but modified slightly so that it makes more angular strokes. Sometimes a round tip is not the best option and a modified variant can save time.
 
-*Knife Palette*
-----
-The palette knife of oil painting applied to digital art. You will see it in in many paintings of landscapes. And if you're lucky to have a Wacom Intuos you will be able to make it sensitive to tilt. But I do not know how it will react because I have not tried. I use it for large strokes, as masses of color but by varying a log (as in picture) transmit a feeling of depth, buildings, rivers and so on. If any of you can check the tilt, please send me an email and comment on what the experience is like.
 
-*Block-Brush*
-----
-This is based on a tool that Rian Church uses in his DVD. (Cool, by the way, and highly recommended.) The good thing about this tool is that it is digital but it retains the feeling of the traditional art. It's a little slow in very large sizes and could be better with more options but for quick things it works very well. If it's too slow, increase spacing to 15-20. It looses quality but it won't test your patience.
-
-*SmallBlock-Brush*
-----
-Same as the tool BlockBrush but halved in size. Not go into details either.
-
-*Oils-1 Small*
-----
-Part of my training as an artist is quite traditional. So you will find many things like "oil, pencil .." such real things. Simulates the touch of oil with semi-hard contours but can be faded with by changing pressure on the stylus. It is very slow if you increase the size, so don't do it (scale =2 or more).
-
-*Oils-1 Big*
-----
-A variant of Oils 1 with twice the size.
-
-*Soft Oils Small*
-----
-A softer variation of oils. Ideal for blending colors and painting in a classical way. Like Oils-1, is slow in very large sizes. It can be used for advanced stages of a coloring an image where it is not large strokes that are important but rather specific details or medium-small areas.
-
-*Soft Oils Big*
-----
-
-*Dust*
-----
-The era of purely digital ended long ago. Today we like to see images more rich in contrasts and textures. To add this material effect we have a series of presets that simply add dust where we want it. Can simulate splashing water, blood, stars or simply create detail in a quick way. If we want to make the effect heavier we just have to move onto the next tool or reduce spacing to "condense" the dust.
-
-*Normal Dust*
-----
-Just another type of dust a little larger to create different effects, adding texture to the image.
-
-*Rough Dust*
-----
-Just another type of dust a little larger to create different effects, adding texture to the image. The effect here is more coarse looking more like gravel or small rocks. It is convenient to use with care as it quickly fills the whole texture and we lose the desired goal. Applied correctly, we can generate speckles on the skin in a very interesting way very quickly.
-
-*Cond Dust*
-----
-Very condensed powder for very specific purposes. Is between the concept of "splash" and "paint". A little weird but useful in some cases.
-
-
-
-*Scratches*
-----
-Based on the concept of David Vyle. I recommend you to see his excellent work. One of the best creators of "Custom Brushes"  I know, from whom I've learned a lot. Allows you to quickly add texture in specific areas. It can also be used for painting. Besides, it is quite fast. If the spacing is set to greater than four, the effect is lost.
-
-
-*Rocks & Mountains*
-----
-David Vyle is again the source of inspiration. Moreover, the sample used is that used in his DVD. 
-You can create great natural environments with this tool.
-
-
-
-*Line Texture*
-----
-Hmm, actually I don't know what I made this tool for, but I found the result very interesting, so here you are. It creates a somewhat peculiar striped effect. Perhaps some day we'll give it a spectacular use.
-
-
-
-*Leafs1*
-----
-Another idea based on David Vyle. This time I decided to create my own samples for the tip, just for the fun of it. Very useful if you want to do vegetation. It's highly addictive, the screen fills up with leaves right away XDD.
-
-
-*Foliage1*
-----
-This tool is useful for creating vegetation as well but without much detail. It creates a lot of texture in the stroke which is great for adding detail to rocks, wood, metal ...
-If we use it with blending modes like color overlay or hard light, you can get very interesting textured effects in animal skins, or rocks for instance. The default is set to green as that's how I use it, but it works with any color.
-Scratch Noise
-This tool works very well for aging effects, for example, to create dirt or to add texture. Is slow because it uses a very large sample but can provide a very interesting result.
-
-
-*Dirty Spot*
-----
-This exhibition is like a brush that Sparth has (actually, I use his sample but I can not remember where I got it from). It's great for an artistic touch. Quite unpredictable, but very interesting results because of the structural diversity it brings. Should not put large sizes. May serve to create masses of clouds or sky.
-
-
-*Clouds*
-----
-If I have to explain this ... XDD. as its name suggests can be used to create all kinds of clouds. Sky clouds, dust, smoke. Uses the concept of "particle" of David Vyle but a sample created by me (no don't think it's very different)
-
-
-*Clouds Details*
-----
-Basically the same as with the clouds but but this particular entry is set to blending mode "Add." The reason is that it comes in very handy to make fire smoke. Try it and you'll see:).
-
-*CoroBalls*
-----
-It's very special. Creates feeling of great detail with little effort. Useful to trees, or weird stuff. Rather weird stuff but I love it and that's why I added. This was created with a sample from Goro.
-
-
-*Tecno*
-----
-Another tool for simulation of strange detail in this case technology. Interesting sample taken from Deviant Art. Do not remember who.
-If you are the author please contact me. Will be glad to include your name.
-
-*Circle Chain*
-----
-The concept of nested chain led to the creative field. It is a bit experimental for weird effects but cool, isn't it?
-
-
-
-*Glare (FX)*
-----
-This tool is parametric, which already means that you can  generate many different types of stars without changing the Brush. You can change the angle, number of points, spacing etc. with only a couple of clicks.
-
-*Glow Lights (FX)*
-----
-Based on the concept of  Rian Church for shading and creating volume with only light. Very useful for all kinds of brightness and light effects. For best results use dark colors, but NOT totally saturated. This tool will keep lighting up to full white.
-
-
-
-*Glow Dark (FX)*
-----
-The opposite of Glow Lights (FX). Note that using the same color produces the effect in the complementary color
-
-
-
-*Light Beam*
-----
-To create laser effects and that "Cool" stuff we do when we get bored. You can also create points of light like light bulbs in a city, the lights in a distant car ... you know.
-
-
-
-*Mith Disc*
-----
-I don't know what I was thinking when I made this XDDD. I was looking for something for effects mystical and technological. You'll say if it is helpful. For data panels or entrances to another dimension?
-
-===*Airbrush Presets*=== 
-These presets are listed by  name found in the Tool Options Restore icon's menu.
-
-*Real AirBrush*
-----
-Nothing much to say except that this tool uses an inverted notion of pressure. The more pressure, the smaller the stroke. Weird, huh?
-
-
-*Digital AirBrush*
-----
-The typical effect of Airbrush. It is not a tool of great mystery, but You'd sorely miss it if you didn't have it and liked airbrushing.
-
-
-
-*Block AirBrush*
-----
- Attempts to mix the concept of BlockBrush with an airbrush.
-Glow Airbrush (FX)
- Attempts to mix the concept of GlowLights with an airbrush.
-
-===*Eraser Presets*===
-These presets are listed by  name found in the Tool Options Restore icon's menu.
-*Soft Eraser*
-For when we need to erase areas of an image smoothly.
-
-
-*Hard Eraser*
-----
-For when we need to delete a areas of a picture in a hard way.
- This is useful when we make cut layer effects.or clipping masks.
-
-
-
-*Round Eraser*
-----
-A rubber for details. It is neither hard nor soft.
-
-
-
-*Block Eraser*
-----
-A very peculiar rubber. Based on the concept of Rian Church. "Erase painting" Useful for making erasing-effects.
-
-===*Ink Tool Presets*===
-These presets are listed by  name found in the Tool Options Restore icon's menu. And  rely on stroke speed.
-
-*Doodles*
-----
-This tool is just that, something to doodle quickly but with lots of ink. It's about finding shapes in the spots we create when we start painting something and also start unplugging the left hemisphere. As an exercise is highly recommended and it's fun. Then you can psychoanalyze yourself if you want.
-
-
-*Fine Sketch* 
-----
-This tool is more like a pen for scribbling but thinner.
-
-
-
-
-*Medium Sketch*
-----
-This tool is halfway between the two previous tools
-
-*Ink*
-----
-For various uses. You can create calligraphic effects.
-
-===*Smudge Presets*===
-These presets are listed by  name found in the Tool Options Restore icon's menu and only melts the colors in the active layer.
-
-*Normal Smudge*
-----
-This tool drags the paint as usual. It's quick and dependent on the spacing. It can be used in areas where the finishing is not very important but rather the mixing of colors.
-
-
-*Soft Smudge*
-----
-Soft, round tip is ideal for blending areas where the a smooth finish is important. For example, delicate jobs such as: skin, gradations, cloth. That sort of thing.
-
-
-
-*Artistic Smudge*
-----
-The term "Artistic" should already make you think of something like a palette knife, which drags a lot of color rather than blending it. It's great for pictorial effects. The more powerful your stroke the more you'll notice it in this tool . It can be used for: backgrounds, skies, fabrics with wrinkles. The best spacing is usually between 20-40. Less than that would turn out too digital and more would be very weird ... XD.
-
-
-*Jittered Smudge*
-----
-Especially made for areas where you want to add texture to the blend. Rocks, backgrounds and that sort of things.
-
-
-*Balls Smudge*
-----
-It's amazing how simple it is and how useful is this tool. It's perfect for fades in the clouds and masses of particles. In combination with clouds. Hey guy! You'll like it.
-
-
-
-*Small-Balls-Smudge*
-----
-The half -size version Smudge Balls.
-
-
-*Wet Smudge*
-----
-Blends as if you're throwing water over. (Get the idea, but you will not see dynamic blends or anything like that XD). Create interesting effects for use with pencil or ink. Besides using it as a parametric brush tip is very versatile. But be careful if you modify some parametric brushes in Gimp, it automatically saves the changes to the tip of a brush. (if you have the Edit option in the preferences. Another day we talk about that).
-
-
-I hope that has been helpful.
