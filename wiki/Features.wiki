@@ -21,7 +21,7 @@ In order for GPS to work properly *your display should be at least 1280 x 960 pi
 ----
 http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpPaintStudio-ce-David.jpg
 
-I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions created by David Revoy the ArtDirector of the Blender open source movie ,Sintel
+I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions created by David Revoy the Art director of the Blender open source movie ,Sintel
 
 
 
@@ -64,7 +64,18 @@ http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/resources
 
 http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpPaintStudio-real-mediums.jpg
 
+===*Gimp painter optimized*===
+----
 http://www.davidrevoy.com/data/images/blog/2011/05/gps15-gimp-painter_02.jpg
+
+Gimp Paint Studio uses all the power of Gimp Painter fork.*
+You can mimic the complex texture stuff with these presets. And they blend color in real time . just check the following video to see how the mixbrush tool works.
+<wiki:video url="http://www.youtube.com/user/K005289?blend=24&ob=5#p/u/17/4xDpuzephiI"/>
+
+http://www.youtube.com/user/K005289?blend=24&ob=5#p/u/16/G1tCXz6eeyg
+
+The Gimp Painter fork can be located here.
+http://sourceforge.jp/projects/gimp-painter/releases/ 
 
 
 
