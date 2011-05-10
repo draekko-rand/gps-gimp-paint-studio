@@ -1,5 +1,6 @@
 #labels Featured
 PDF user guide on the Downloads section.
+
 http://code.google.com/p/gps-gimp-paint-studio/downloads/list
 
 http://1.bp.blogspot.com/-4htPBLUuXy8/TZnIE86IcJI/AAAAAAAAAvw/Az9Jcn0JlW0/s320/solo-GPS.jpg
@@ -46,7 +47,7 @@ We have now a better way to understand where our presets are, and how they work.
   * Gradients for presets and fx.
   * +200 brushes.
   * Is really useful to have a complete brushpackage to use in our works.isn´t it?
-  * HighRes Patterns to mimic artistic Mediums.
+  * High resolution Patterns to mimic artistic Mediums.
 
 
 *Final Words?*
@@ -58,7 +59,7 @@ If you like it , you can subscribe the channel on youtube ,you can share it, and
 
   * GPS Home http://code.google.com/p/gps-gimp-paint-studio/ 
   * Tweeter http://twitter.com/#!/GimpPaintStudio 
-  * DeviantArt http://theshock.deviantart.com/ 
+  * Deviant Art http://theshock.deviantart.com/ 
   * WEB  http://www.ramonmiranda.com/
 
 
