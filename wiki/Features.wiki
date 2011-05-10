@@ -4,6 +4,7 @@ PDF user guide on the Downloads section.
 http://code.google.com/p/gps-gimp-paint-studio/downloads/list
 
 http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/Banner-GPS-1_5.jpg
+*Current release of GPS at 2011-05-11 is 1.5*
 
 = Features of GPS =
 
