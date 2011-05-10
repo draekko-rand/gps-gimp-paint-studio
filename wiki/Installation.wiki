@@ -12,7 +12,7 @@ Windows
   *Windows XP
   *Windows 7
 }}}
-----
+
 
 =GNU/Linux OS=
 ---- 
