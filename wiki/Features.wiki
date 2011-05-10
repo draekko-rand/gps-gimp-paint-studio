@@ -11,7 +11,7 @@ http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/Banner-GP
 ----
 New bigger and redesigned layout to achieve more space and better tools location. 
 
-http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpGPSLayout.jpg
+http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/Gimp-GPS-Layout.jpg
 (all windows location are stored on the "sessionrc" file)
 
 In order for GPS to work properly *your display should be at least 1280 x 960 pixels* though higher resolution will provide more working space. It is not uncommon to work at 1600 x 1200 pixels and higher, or even with 2 monitors.  Remember that *GPS is intended for graphic designers* and artists who typically have access to larger displays.
