@@ -38,7 +38,13 @@ Once you have copied all directories and files, just start the Gimp, which will 
 =How to install GPS in German Language (Dutsch) by [http://www.youtube.com/user/HoneyballCookie HoneyballCookie]=
 <wiki:video url="http://www.youtube.com/watch?v=FpNWHgGw85k"/>
 
+==Instalation for Linux users==
+you can paste simply this line by line in a terminal , the command start with a copy of your existing preset and gimp configuration , because it still important to keep the possibility to revert later.
 
+mv ~/.gimp-2.6 ~/.gimp-2.6-backup
+wget http://gps-gimp-paint-studio.googlecode.com/files/GPS%201_5_final%20release.zip
+unzip GPS\ 1_5_final\ release.zip -d ~/.gimp-2.6
+rm GPS\ 1_5_final\ release.zip 
 
 
 ==How to install GPS. explained in text mode==
