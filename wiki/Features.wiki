@@ -3,7 +3,7 @@ PDF user guide on the Downloads section.
 
 http://code.google.com/p/gps-gimp-paint-studio/downloads/list
 
-http://1.bp.blogspot.com/-4htPBLUuXy8/TZnIE86IcJI/AAAAAAAAAvw/Az9Jcn0JlW0/s320/solo-GPS.jpg
+http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/Banner-GPS-1_5.jpg
 
 = Features of GPS =
 
@@ -20,6 +20,7 @@ In order for GPS to work properly *your display should be at least 1280 x 960 pi
 ===*Chaos & Evolutions Brushpack included by default*===
 ----
 I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions created by David Revoy the ArtDirector of the Blender open source movie ,Sintel
+
 
 
 
