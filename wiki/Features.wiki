@@ -31,7 +31,7 @@ I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions c
 ----
 http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpPaintStudio-presets.jpg
 
-We can use more tools to do other usual tasks as Gradient effects, cropping  work ,cloning  and much more.
+More tools to do other usual tasks as Gradient effects, cropping  work, cloning and much more.
 
   * Selection Presets
   * Cropping Presets
@@ -54,7 +54,7 @@ We can use more tools to do other usual tasks as Gradient effects, cropping  wor
 ----
 http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpPaintStudio-tag-system.jpg
 
-We have now a better way to understand where our presets are, and how they work. I have included the Blendmode of some presets. And also a type of hint by Select Gradient or Select Foreground color. That makes the presets management  faster
+A better way to understand where our presets are, and how they work. I have included the Blendmode of some presets. And also a type of hint by Select Gradient or Select Foreground color. That makes the presets management faster.
 
 
 
@@ -72,7 +72,9 @@ http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpPaint
 http://www.davidrevoy.com/data/images/blog/2011/05/gps15-gimp-painter_02.jpg
 
 Gimp Paint Studio uses all the power of Gimp Painter fork.*
-You can mimic the complex texture stuff with these presets and they blend color in real time . just check the following video to see how the mixbrush tool works.
+Test sheet , to show how incredible are 6 picked presets of the Gimp-painter mixbrush tools . With mixing + texture , it's actually the most advanced digital painting FLOSS tool.
+
+Check the following video to see how the mixbrush tool works.
 
 <wiki:video url="http://www.youtube.com/watch?v=4xDpuzephiI&feature=related"/>
 
@@ -86,11 +88,10 @@ http://sourceforge.jp/projects/gimp-painter/releases/
 ----
 GIMP is a tool, and therefore it is more important who use the tool than the tool itself.Art is about that concept. It must be fun and i sure you painting with gimp and GPS is very fun.
 
-I encourage you to follow us on Tweeter, facebook, and you will learn how to enjoy and improve your painting skills  quickly.
-If you like it , you can subscribe the channel on youtube ,you can share it, and also comment on the blog
 
   * GPS Home http://code.google.com/p/gps-gimp-paint-studio/ 
   * Tweeter http://twitter.com/#!/GimpPaintStudio 
+ 
   * Deviant Art http://theshock.deviantart.com/ 
   * WEB  http://www.ramonmiranda.com/
 
@@ -99,7 +100,7 @@ If you like it , you can subscribe the channel on youtube ,you can share it, and
 
 ----
 best regards
-Ramón Miranda
+Ramón Miranda, 
 GPS project Chairman
 
 GPS can be used for any purpose without restriction, under those terms:
