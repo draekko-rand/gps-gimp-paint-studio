@@ -19,7 +19,7 @@ In order for GPS to work properly your display should be at least 1280 x 960 pix
 ----
 I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions created by David Revoy the ArtDirector of the Blender open source movie ,Sintel
 
-===*presets for more tools, not only painting tools*===
+===*Presets for more tools, not only painting tools*===
 ----
 We can use more tools to do other usual tasks as Gradient effects, cropping  work ,cloning  and much more.
 
