@@ -29,6 +29,8 @@ I believe that GPS could have. Subsets, so the first one is Chaos & Evolutions c
 
 ===*Presets for more tools, not only painting tools*===
 ----
+http://i458.photobucket.com/albums/qq308/TheShock_album/Gallery%20WIKI/GimpPaintStudio-presets.jpg
+
 We can use more tools to do other usual tasks as Gradient effects, cropping  work ,cloning  and much more.
 
   * Selection Presets
