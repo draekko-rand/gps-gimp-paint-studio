@@ -35,6 +35,16 @@ rm GPS\ 1_5_final\ release.zip
 ==Installing GPS from a PPA==
 WIP
 
+To add the PPA and install GIMP Paint Studio in Ubuntu (you obviously need to install GIMP first), use the following commands:
+
+{{{
+sudo add-apt-repository ppa:shnatsel/gimp-paint-studio
+sudo apt-get update
+sudo apt-get install gimp-paint-studio
+}}}
+
+
+
 ----
 ----
 ----
