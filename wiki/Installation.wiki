@@ -33,7 +33,8 @@ rm GPS\ 1_5_final\ release.zip
 <wiki:video url="http://www.youtube.com/watch?v=2_XuGPwlGxk"/>
 
 ==Installing GPS from a PPA==
-WIP
+To install GPS from a PPA you can check this link
+http://www.webupd8.org/2011/02/gimp-painter-and-gimp-paint-studio.html
 
 To add the PPA and install GIMP Paint Studio in Ubuntu (you obviously need to install GIMP first), use the following commands:
 
