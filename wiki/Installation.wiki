@@ -65,13 +65,11 @@ http://code.google.com/p/gps-gimp-paint-studio/downloads/list
 
 To install Gimp Paint Studio, first we must know *where the user directory of Gimp is located.* Usually this is a hidden folder.Assuming you have installed Gimp version 2.6.x (where x can be 10, 11 or later...) is usually found at:
 
-  * Windows : C:\Documents and Settings\username\.gimp-2.6
-    Edit folder options if it is not visible.
+  * Windows : C:\Documents and Settings\username\.gimp-2.6(Edit folder options if it is not visible.)
 
   * MacOS : /Users/username/Library/Application Support/Gimp
 
-  * GNU/Linux : /home/username/.gimp-2.6 
-    Ctrl+H if it is not visible
+  * GNU/Linux : /home/username/.gimp-2.6 (Ctrl+H if it is not visible)
 
   * If you have the portable version “GIMPPortable/App/gimp/share/gimp/2.0/
 
