@@ -14,7 +14,7 @@ Windows
   *Windows XP
   *Windows 7
 
-Installing GPS in 10 steps.
+Installing GPS in 10 easy steps.
 }}}
 
 
@@ -51,7 +51,7 @@ WIP
 <wiki:video url="http://www.youtube.com/watch?v=FpNWHgGw85k"/>
 
 ----
-==Installing GPS in 10 steps==
+==Installing GPS in 10 easy steps==
 *GIMP must be installed on your computer before* installing GPS. If it is not installed, you can download it from the official website:
 
 http://www.gimp.org/downloads/
