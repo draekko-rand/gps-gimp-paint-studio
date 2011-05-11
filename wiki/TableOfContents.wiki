@@ -2,10 +2,10 @@
 #labels Featured
 
  * [Introduction]
- * [Gallery GPS Gallery]
+ * [Features] 
  * [Installation]
+ * [Gallery GPS Gallery]
  * [Videotutorials_EN]
  * [Videotutoriales_ES]
- * [Features] 
  * [LinkPage Useful links]
  * [BrainStorm Brainstorming]
