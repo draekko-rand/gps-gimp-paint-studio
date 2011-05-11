@@ -90,13 +90,11 @@ you should back up the original files in case you wish to restore original layou
 Start Gimp. 
 
 9. The next step is optional but will improve the overall usability of the user   interface.
- _Edit->Preferences->Toolbox_
-  Activate the three ticks available there.
-
- _Edit->Preferences->Tool Options_  
-   On this page, under the Paint Options Shared Between Tools, disable the three options (Brush, Pattern, and Gradient).
-
- _Edit->Preferences->Image Windows/Mouse Pointers_
-  Disable the “Show brush outline” option and make sure you have “checked” or enabled the “Show pointer for paint tools”.This will increase the speed of brushes when you are painting.
+Edit->Preferences->Toolbox_
+Activate the three ticks available there.
+Edit->Preferences->Tool Options_  
+On this page, under the Paint Options Shared Between Tools, disable the three options (Brush, Pattern, and Gradient).
+Edit->Preferences->Image Windows/Mouse Pointers_
+Disable the “Show brush outline” option and make sure you have “checked” or enabled the “Show pointer for paint tools”.This will increase the speed of brushes when you are painting.
 
 10. That's  all. Enjoy it, the most important step!
