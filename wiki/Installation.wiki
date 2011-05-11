@@ -77,22 +77,19 @@ you should back up the original files in case you wish to restore original layou
 
 4. Copy the contents of the *patterns* directory to the folder with the same name in the Gimp directory.(/.gimp-2.6)
 
-3. Copy the contents of the *gradients* directory to the folder with the same name in the Gimp directory.(/.gimp-2.6)
+5. Copy the contents of the *gradients* directory to the folder with the same name in the Gimp directory.(/.gimp-2.6)
 
-4. Copy the contents of the *palettes* directory to the folder with the same name in the Gimp directory.(/.gimp-2.6)
+6. Copy the contents of the *palettes* directory to the folder with the same name in the Gimp directory.(/.gimp-2.6)
 
-5. If you also want to install the *configuration of the GPS tools* (recommended), you must copy the file *toolrc* and replace the already existing one (with the same name) in the program directory *(you should make a copy of this file in case you later want to restore)*.
-If you want to *add some tools to the Toolbox* then copy the  *toolrc* file to the top level of your GIMP configuration folder.  This file will add icons for the Hue/Saturation and Curves dialogs to the Toolbox.
+7. If you want to *add some tools to the Toolbox* then copy the  *toolrc* file to the Gimp directory.(/.gimp-2.6)  This file will add icons for the new tools in the Toolbox. *You should make a copy of this file in case you later want to restore*.
 
-In the tools panel you'll find *several new shortcuts to the curves and tone / saturation*, directly accessible from the main window. The interface of the window has been modified to have quick access to options for each tool and different color dialogs and palettes. 
 
-6. Do the same with the file *sessionrc* if you want to *modify the GPS position and rearrange the windows* on the Gimp's screen. You should know that the layout and the interface are highly optimized to work comfortably with a screen resolution of at least 1280 pixels wide. It is also advisable to install this file, but *first make a backup copy of the original one, just in case.*
- If you want to use *GPS dialog layout* then copy the file *sessionrc* to the top level of your GIMP configuration folder. (_Note:  this will change the layout of GIMP's windows.  Save a backup copy of the original sessionrc (just rename it to sessionrc.old, for example) that you can restore if the new layout does not suit your needs._)
+8. Do the same with the file *sessionrc* if you want to *modify the GPS position and rearrange the windows* on the Gimp's screen. Copy the file *sessionrc* to the Gimp directory.(/.gimp-2.6). This will change the layout of GIMP's windows.*You should make a copy of this file in case you later want to restore*.
  
  
-7. Start Gimp. 
+Start Gimp. 
 
-8. The next step is optional but will improve the overall usability of the user   interface.
+9. The next step is optional but will improve the overall usability of the user   interface.
  _Edit->Preferences->Toolbox_
   Activate the three ticks available there.
 
