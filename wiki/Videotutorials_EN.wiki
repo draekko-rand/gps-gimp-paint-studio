@@ -2,7 +2,7 @@
 #labels Featured
 #sidebar TableOfContents
 = GPS Gimp Paint Studio Videotutorials  =
-The following videos shows what is GPS and how to use it. Enjoy them and please,see them in HD.Thw image quality is not the same.
+The following videos shows what is GPS and how to use it. Enjoy them and please,see them in HD.The image quality is not the same.
 
  || *Preset Examples of GPS* <wiki:video url="http://www.youtube.com/watch?v=rmcvR2yeGbQ"/> || *Making of Nixie Pixel Portrait* <wiki:video url="http://www.youtube.com/watch?v=9lHDsO5x-Tg"/> ||
 
