@@ -56,7 +56,7 @@ WIP
 
 http://www.gimp.org/downloads/
 
-1. Install gimp and execute for the first time. Then Quit. (this step create the *tool-options* folder wich is needed later)
+1. Install gimp and execute for the first time. Then Quit. (this step create the *tool-options* folder wich is needed later).
  
 2. Download the last version of GPS From the google code page:
 
