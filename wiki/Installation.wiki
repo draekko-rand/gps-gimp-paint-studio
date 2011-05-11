@@ -7,7 +7,7 @@ As Gimp and GPS are crossplatform, here it is the way to install in each case._
 GNU/Linux
   *Ubuntu 
   *Mint
-  *installing GPS from a PPA (WIP)
+  *Installing GPS from a PPA (WIP)
 
 Windows
   *Windows Vista
@@ -32,6 +32,8 @@ rm GPS\ 1_5_final\ release.zip
 ==How to install GPS in Ubuntu using Folders by [http://www.youtube.com/user/Tru3m0sl3m Tru3m0sl3m]==
 <wiki:video url="http://www.youtube.com/watch?v=2_XuGPwlGxk"/>
 
+==Installing GPS from a PPA==
+WIP
 
 ----
 ----
@@ -90,6 +92,7 @@ you should back up the original files in case you wish to restore original layou
 Start Gimp. 
 
 9. The next step is optional but will improve the overall usability of the user   interface.
+
 _Edit->Preferences->Toolbox_
 Activate the three ticks available there.
 
