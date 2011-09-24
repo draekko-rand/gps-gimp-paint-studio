@@ -5,9 +5,8 @@ As Gimp and GPS are crossplatform, here it is the way to install in each case._
 
 {{{
 GNU/Linux
-  *Ubuntu 
-  *Mint
-  *Installing GPS from a PPA (WIP)
+  *Ubuntu From PPA
+  *Installing GPS using folders.
 
 Windows
   *Windows Vista
@@ -19,20 +18,7 @@ Installing GPS in 10 easy steps.
 
 
 =GNU/Linux OS= 
-==Instalation for GNU/Linux users (Ubuntu 10.10, Mint)==
-
-you can paste simply this, line by line in a terminal , the command start with a copy of your existing preset and gimp configuration , because it still important to keep the possibility to revert later.
-{{{
-mv ~/.gimp-2.6 ~/.gimp-2.6-backup
-wget http://gps-gimp-paint-studio.googlecode.com/files/GPS%201_5_final%20release.zip
-unzip GPS\ 1_5_final\ release.zip -d ~/.gimp-2.6
-rm GPS\ 1_5_final\ release.zip
-}}}
-
-==How to install GPS in Ubuntu using Folders by [http://www.youtube.com/user/Tru3m0sl3m Tru3m0sl3m]==
-<wiki:video url="http://www.youtube.com/watch?v=2_XuGPwlGxk"/>
-
-==Installing GPS from a PPA==
+==Installing GPS from a PPA (Ubuntu, mint ...)==
 To install GPS from a PPA you can check this link
 http://www.webupd8.org/2011/02/gimp-painter-and-gimp-paint-studio.html
 
@@ -44,6 +30,19 @@ sudo apt-get update
 sudo apt-get install gimp-paint-studio
 }}}
 
+
+==Installing GPS using folders==
+
+you can paste simply this, line by line in a terminal , the command start with a copy of your existing preset and gimp configuration , because it still important to keep the possibility to revert later.
+{{{
+mv ~/.gimp-2.6 ~/.gimp-2.6-backup
+wget http://gps-gimp-paint-studio.googlecode.com/files/GPS%201_5_final%20release.zip
+unzip GPS\ 1_5_final\ release.zip -d ~/.gimp-2.6
+rm GPS\ 1_5_final\ release.zip
+}}}
+
+==How to install GPS in Ubuntu using Folders by [http://www.youtube.com/user/Tru3m0sl3m Tru3m0sl3m]==
+<wiki:video url="http://www.youtube.com/watch?v=2_XuGPwlGxk"/>
 
 
 ----
@@ -58,8 +57,6 @@ sudo apt-get install gimp-paint-studio
 ==How to install GPS in Windows 7 by [http://www.youtube.com/user/blender3D101 blender3D101]== 
 <wiki:video url="http://www.youtube.com/watch?v=IW-cH2wY5Eg&feature=related"/>
 
-==How to install GPS in German Language (Dutsch) by [http://www.youtube.com/user/HoneyballCookie HoneyballCookie]==
-<wiki:video url="http://www.youtube.com/watch?v=FpNWHgGw85k"/>
 
 ----
 ==Installing GPS in 10 easy steps==
