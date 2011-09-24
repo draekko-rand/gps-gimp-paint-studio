@@ -55,8 +55,8 @@ sudo apt-get install gimp-paint-studio
 ==How to install GPS in Windows XP by [http://www.youtube.com/user/reeceyamato reeceyamato]== 
 <wiki:video url="http://www.youtube.com/watch?v=g1KnTepWQzs&NR=1&feature=fvwp"/>
 
-==How to install GPS in Windows 7 by [http://www.youtube.com/user/reeceyamato reeceyamato]== 
-<wiki:video url="http://www.youtube.com/watch?v=1625YAwEMmQ"/>
+==How to install GPS in Windows 7 by [http://www.youtube.com/user/blender3D101 blender3D101]== 
+<wiki:video url="http://www.youtube.com/watch?v=IW-cH2wY5Eg&feature=related"/>
 
 ==How to install GPS in German Language (Dutsch) by [http://www.youtube.com/user/HoneyballCookie HoneyballCookie]==
 <wiki:video url="http://www.youtube.com/watch?v=FpNWHgGw85k"/>
