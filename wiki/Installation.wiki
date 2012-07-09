@@ -1,5 +1,6 @@
 #summary Installation guide for GPS
-#labels Phase-Deploy,Featured
+#labels Phase-Deploy,Deprecated
+
 _Some guys and girls, have made good videotutorials teaching how to install GPS properly if you need help. So thanks a lot for their work that i really apreciate. 
 As Gimp and GPS are crossplatform, here it is the way to install in each case._
 
