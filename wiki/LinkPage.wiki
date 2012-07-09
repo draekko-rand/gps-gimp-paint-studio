@@ -39,12 +39,7 @@ Old members (not active)
  * [http://gimpchat.com/ Gimp Chat]
 
 
-=Other links (related to painting tasks)=
- * [http://mypaint.intilinux.com/ MyPaint]
- * [http://wiki.mypaint.info/index.php?title=UI/Brainstorm MyPaint GUI brainstorm]
 
-=Conferences About Gimp=
-* [http://river-valley.tv/gimp-ui-taking-some-big-issues-by-the-horns/ GIMP UI future discussion (video)]
 
 
  
