@@ -8,7 +8,7 @@
 2. Unzip folder and move it's contents to your Gimp 2.8 preferences directory
     Typically it's located in:
 
-     _c:/users/your_username/documents/gimp 2.8_
+     _c:/users/your_username/documents/gimp-2.8_
 
 3. Run Gimp and enjoy new set of tools
 -----
