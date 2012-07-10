@@ -5,7 +5,7 @@
 
 1. Download *GPS_Gimp_Paint_Studio_2_0* from downloads section;
 
-2. Unzip folder and move it's contents to your Gimp 2.8 preferences directory
+2. Unzip folder and move it's contents to your .gimp-2.8 folder
     Typically it's located in:
 
      _c:/users/your_username/documents/gimp-2.8_
@@ -16,7 +16,7 @@
 
 1. Download *GPS_Gimp_Paint_Studio_2_0* from downloads section;
 
-2. Unzip folder and move it's contents to your Gimp 2.8 preferences directory
+2. Unzip folder and move it's contents to your .gimp-2.8 folder
      Typically it's located in:
 
      _/home/your_username/.gimp-2.8_
