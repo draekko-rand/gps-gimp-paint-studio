@@ -1,5 +1,5 @@
 #labels Phase-Deploy,Deprecated
-*INSTALLATION GUIDE FOR GPS 2.0* alpha version
+*INSTALLATION GUIDE FOR GPS 2.0*
 ------
 *WINDOWS XP/7 USERS*
 
